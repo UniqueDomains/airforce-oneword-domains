@@ -1,62 +1,62 @@
 
-# List of .AIRFORCE One Word Domain Names (3,444)
+# List of .AIRFORCE One Word Domain Names (3,453)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/airforce-oneword-domains.svg?style=flat)]() [![3,444 .AIRFORCE one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C444-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/airforce-oneword-domains.svg?style=flat)]() [![3,453 .AIRFORCE one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C453-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .AIRFORCE one-word domains still available to buy.
 
-This dataset contains 3,453 .AIRFORCE one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,458 .AIRFORCE one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.AIRFORCE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.top) (3,444) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.AIRFORCE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.top) (3,453) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/airforce-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.csv"><b>⬇️ CSV (3.45K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.json"><b>⬇️ JSON (3.45K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.44K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.csv"><b>⬇️ CSV (3.46K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.json"><b>⬇️ JSON (3.46K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.45K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                   |
-| ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.airforce  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/9513c480-420a-46cd-b0f6-05ce03ba5ee3?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.airforce      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/aec52e55-7b89-4fb6-8c73-3a227e47ce0d?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.airforce  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/a61858a6-8a11-42b3-8fd2-e29fd69c7268?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.airforce    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/0320e189-a4aa-4693-840f-7f5d2c9c7d76?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.airforce     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/e5f76f89-789e-473d-bf52-a8511624ad60?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.airforce   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/c802d74c-0ea7-403e-9b04-3698cc8235c2?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.airforce     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/4b1459ac-0c80-47a3-bb8e-81e604194c5a?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.airforce    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/d8d611f4-f29e-4019-8c7e-62fb024ce2aa?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.airforce   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/feecdae5-bafe-4f21-8cf6-4817d65d7ecd?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.airforce  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/94f70655-f25f-41be-b036-1d61367b39a1?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.airforce  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/273d0a36-29c2-4e32-be1f-26a977321d26?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.airforce | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/a7e98570-5708-4ac7-8641-e1a4d8a2ce8b?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.airforce   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/38f4c46e-8e8c-4bf0-8b24-9879fd3610b6?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.airforce   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/3dd68952-e3aa-4f03-92c7-83c5ce09f0ef?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.airforce  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/f99e8d5b-3dba-458c-ade0-e57a781c878e?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.airforce    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/06ebe6e9-0039-4ab8-9f71-9cd936d9f633?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.airforce | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/754b57c2-cf74-4561-904a-5302df3b1a0b?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.airforce   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/d92f982f-dabb-4b17-916b-299095eb2c19?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.airforce    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/82f5f87e-a426-4e7c-80d4-028a1f21d028?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.airforce  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/cbd1b40d-f461-4e23-ae3c-739faf2d2ce5?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.airforce    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/5fe4ec79-4aad-4d94-b2b9-9c2acc7bec00?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abient.airforce     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/06be8b08-dec1-49ac-89f2-3e56b3aa99ff?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abject.airforce     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/736d177d-36c9-49e9-b258-5eaec6ba9587?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.airforce     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/e8e25317-b3c3-415c-b20a-4f77c32e592a?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.airforce  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/09bf77da-0792-4f49-8e87-f76faa0cf368?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.airforce     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/fb818c6b-69fe-4a43-aa43-0f02912dad11?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.airforce  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e3976b66-b1dd-4cb7-b247-1537918fadd4?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.airforce    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/aeb3aeeb-4102-4d26-ae66-4aa98f4f23b3?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.airforce   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/749bb039-de61-47ac-9553-79ea1f06b185?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.airforce     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/ed3cc720-b534-476a-92e6-0fe9c76e5750?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.domain.analyze) |
+| Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abactinal.airforce  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.airforce      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.airforce  | available | 58       | 10%    | 9      |           |         |         |
+| abashed.airforce    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.airforce     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.airforce   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.airforce     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.airforce    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.airforce   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.airforce  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.airforce  | available | 82       | 2%     | 9      |           |         |         |
+| abdominous.airforce | available | 56       | 1%     | 10     |           |         |         |
+| abducens.airforce   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.airforce   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.airforce  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.airforce    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.airforce | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.airforce   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.airforce    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.airforce  | available | 54       | 1%     | 9      |           |         |         |
+| abiding.airforce    | available | 106      | 5%     | 7      |           |         |         |
+| abient.airforce     | available | 54       | 1%     | 6      |           |         |         |
+| abject.airforce     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.airforce     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.airforce  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.airforce     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.airforce  | available | 78       | 1%     | 9      |           |         |         |
+| ablated.airforce    | available | 52       | 2%     | 7      |           |         |         |
+| ablative.airforce   | available | 68       | 3%     | 8      |           |         |         |
+| ablaze.airforce     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/airforce-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.csv"><b>⬇️ CSV (3.45K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.json"><b>⬇️ JSON (3.45K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.44K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.csv"><b>⬇️ CSV (3.46K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/airforce-oneword-domains/blob/main/airforce.json"><b>⬇️ JSON (3.46K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.45K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,26 +89,26 @@ If you want to search & filters the complete database of [.AIRFORCE one word dom
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,565       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 45,236       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,942,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,571       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,247       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,943,532    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,208        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,940        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,460        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,414        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,395        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
-| .ADULT         | 3,412        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 3,248        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
-| .AGENCY        | 2,583        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AC            | 3,215        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,943        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,463        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,417        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,399        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .ADULT         | 3,415        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
+| .AG            | 3,249        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AGENCY        | 2,587        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 53,577       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
-| .AIRFORCE      | 3,444        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
-| .APARTMENTS    | 3,388        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .AIRFORCE      | 3,453        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
+| .APARTMENTS    | 3,397        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,519       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
-| .ARCHI         | 3,384        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARCHI         | 3,393        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
 | .ARMY          | 3,300        | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
 | .ART           | 3,120        | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
 | .ASIA          | 2,819        | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
