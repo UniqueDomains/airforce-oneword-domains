@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.AIRFORCE one word dom
 | abbatial.airforce   | available | 50       | 1%     | 8      |           |         |         |
 | abc.airforce        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.airforce  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.airforce  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.airforce  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.airforce | available | 56       | 1%     | 10     |           |         |         |
 | abducens.airforce   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.airforce   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.AIRFORCE one word dom
 | aberdonian.airforce | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.airforce   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.airforce    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.airforce  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.airforce  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.airforce    | available | 106      | 5%     | 7      |           |         |         |
 | abient.airforce     | available | 54       | 1%     | 6      |           |         |         |
 | ability.airforce    | available | 92       | 18%    | 7      |           |         |         |
