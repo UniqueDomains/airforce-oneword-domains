@@ -12,7 +12,7 @@
 Daily-updated dataset of available and resale .airforce one-word domains from Unique Domains.
 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Live product counts can still change as the search refreshes.
+> Unique Domains counts can still change as the search refreshes.
 
 **Public extract:** 9,857 rows · **Live catalog:** 9,857 domains
 
@@ -24,24 +24,18 @@ Daily-updated dataset of available and resale .airforce one-word domains from Un
 
 <p align="center">
   <a href="https://unique.domains/domains/tld/airforce?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <a href="https://unique.domains/domains/tld/airforce?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/airforce?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./airforce.csv">CSV</a> / <a href="./airforce.json">JSON</a>
-</p>
-
-<p align="center">
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_methodology">Methodology</a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_api_docs">API docs</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
-> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+➡️ **Investors:** [Create a Radar from this .AIRFORCE search](https://unique.domains/domains/tld/airforce?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .AIRFORCE search](https://unique.domains/domains/tld/airforce?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_api_docs)
 
-**Choose your next step**
-- **Investors:** [Create a Radar from this exact .AIRFORCE search](https://unique.domains/domains/tld/airforce?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_create_radar)
-- **Founders:** [Start a Project from this exact .AIRFORCE search](https://unique.domains/domains/tld/airforce?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_start_project)
-- **Researchers / builders:** [Download CSV](./airforce.csv) or [Download JSON](./airforce.json)
+---
 
 ## 📦 What this repository contains
 
@@ -56,18 +50,6 @@ This repository is the public extract for Unique Domains' .AIRFORCE one-word dom
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-
-## Why leave GitHub?
-
-| GitHub extract          | Live product                                     |
-| ----------------------- | ------------------------------------------------ |
-| 9,857-row public sample | 9,857 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
-
-If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -107,7 +89,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 ## 🚀 Next move
 
-You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 9,857-row public sample | 9,857 live domains                               |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
 [Create Radar](https://unique.domains/domains/tld/airforce?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/airforce?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_airforce_oneword_domains&utm_content=related_pricing)
 
@@ -134,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -166,4 +158,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
