@@ -72,7 +72,7 @@ print(df.head())
 | live.airforce       | premium   | $128.70   | $128.70       | 108            | 56     | 4      | namecheap                                |
 | art.airforce        | available | $134.98   | —             | 90             | 52     | 3      | namecheap                                |
 | smart.airforce      | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                              |
-| zero.airforce       | premium   | $85.80    | $85.80        | 112            | 54     | 4      | namecheap                                |
+| zero.airforce       | premium   | $85.80    | $85.80        | 112            | 53     | 4      | namecheap                                |
 | true.airforce       | available | $134.98   | —             | 86             | 52     | 4      | namecheap                                |
 | service.airforce    | resell    | —         | —             | 70             | 41     | 7      | Cronon GmbH                              |
 | business.airforce   | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                                |
