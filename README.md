@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .airforce one-word domains from Un
 
 **Public extract:** 9,857 rows · **Live catalog:** 9,857 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/airforce`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | free.airforce       | available | $134.98   | —             | 88             | 59     | 4      | namecheap                                |
 | http.airforce       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | enterprise.airforce | premium   | $85.80    | $85.80        | 68             | 61     | 10     | namecheap                                |
-| alpha.airforce      | available | $134.98   | —             | 90             | 54     | 5      | namecheap                                |
+| alpha.airforce      | available | $134.98   | —             | 90             | 53     | 5      | namecheap                                |
 | news.airforce       | resell    | —         | —             | 100            | 64     | 4      | Dynadot Inc                              |
 | live.airforce       | premium   | $128.70   | $128.70       | 108            | 56     | 4      | namecheap                                |
 | art.airforce        | available | $134.98   | —             | 90             | 52     | 3      | namecheap                                |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
