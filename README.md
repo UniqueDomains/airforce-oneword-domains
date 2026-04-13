@@ -64,7 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| free.airforce       | available | $134.98   | —             | 88             | 59     | 4      | namecheap                                |
+| free.airforce       | available | $134.98   | —             | 88             | 57     | 4      | namecheap                                |
 | http.airforce       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | enterprise.airforce | premium   | $85.80    | $85.80        | 68             | 61     | 10     | namecheap                                |
 | alpha.airforce      | available | $134.98   | —             | 90             | 53     | 5      | namecheap                                |
