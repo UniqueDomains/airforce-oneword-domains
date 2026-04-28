@@ -1,22 +1,22 @@
-# Available .AIRFORCE One-Word Domains (9,857)
+# Available .AIRFORCE One-Word Domains (12,842)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C858%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C857%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C842%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .airforce one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .airforce one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,842 domains** on the canonical page below.
 
-**Public extract:** 9,858 rows · **Live catalog:** 9,857 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,842 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-28  
 **Canonical page:** `https://unique.domains/domains/tld/airforce`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .AIRFORCE one-word dom
 
 ### Files
 
-- `airforce.csv` — public CSV extract (9,858 rows)
-- `airforce.json` — public JSON extract (9,858 rows)
+- `airforce.csv` — public CSV extract (1,000 rows)
+- `airforce.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| free.airforce       | available | $134.98   | —             | 88             | 57     | 4      | namecheap                                |
-| http.airforce       | resell    | —         | —             | 80             | 72     | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| enterprise.airforce | premium   | $85.80    | $85.80        | 68             | 61     | 10     | namecheap                                |
-| alpha.airforce      | available | $134.98   | —             | 90             | 53     | 5      | namecheap                                |
-| news.airforce       | resell    | —         | —             | 100            | 64     | 4      | Dynadot Inc                              |
-| live.airforce       | premium   | $128.70   | $128.70       | 108            | 56     | 4      | namecheap                                |
-| art.airforce        | available | $134.98   | —             | 90             | 52     | 3      | namecheap                                |
-| smart.airforce      | resell    | —         | —             | 74             | 55     | 5      | Porkbun LLC                              |
-| zero.airforce       | premium   | $85.80    | $85.80        | 112            | 53     | 4      | namecheap                                |
-| true.airforce       | available | $134.98   | —             | 86             | 52     | 4      | namecheap                                |
-| service.airforce    | resell    | —         | —             | 70             | 41     | 7      | Cronon GmbH                              |
-| business.airforce   | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap                                |
-| game.airforce       | available | $134.98   | —             | 120            | 50     | 4      | namecheap                                |
-| captain.airforce    | resell    | —         | —             | 76             | 29     | 7      | GoDaddy.com, LLC                         |
-| one.airforce        | premium   | $1,000    | $1,000        | 132            | 50     | 3      | name.com                                 |
-| life.airforce       | available | $134.98   | —             | 84             | 50     | 4      | namecheap                                |
-| abc.airforce        | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap                                |
-| simple.airforce     | available | $134.98   | —             | 128            | 49     | 6      | namecheap                                |
-| clear.airforce      | premium   | $128.70   | $128.70       | 90             | 49     | 5      | namecheap                                |
-| travel.airforce     | available | $134.98   | —             | 115            | 48     | 6      | namecheap                                |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| cars.airforce          | available | $134.98   | —             | 66             | 47     | 4      | namecheap |
+| teams.airforce         | premium   | $138.60   | $138.60       | 62             | 32     | 5      | namecheap |
+| shortcuts.airforce     | available | $134.98   | —             | 48             | 41     | 10     | namecheap |
+| products.airforce      | premium   | $92.40    | $92.40        | 60             | 23     | 8      | namecheap |
+| Tools.airforce         | available | $134.98   | —             | 56             | 40     | 5      | namecheap |
+| flights.airforce       | premium   | $118.80   | $118.80       | 61             | 22     | 7      | namesilo  |
+| prompts.airforce       | available | $103.99   | $103.99       | 54             | 39     | 7      | namesilo  |
+| units.airforce         | premium   | $92.40    | $92.40        | 56             | 16     | 5      | namecheap |
+| events.airforce        | available | $134.98   | —             | 68             | 37     | 6      | namecheap |
+| VirginiaBeach.airforce | premium   | $280      | $280          | 58             | 9      | 14     | namecheap |
+| tokens.airforce        | available | $103.99   | $103.99       | 51             | 36     | 6      | namesilo  |
+| spectra.airforce       | available | $134.98   | —             | 62             | 34     | 7      | namecheap |
+| payments.airforce      | available | $134.98   | —             | 58             | 33     | 8      | namecheap |
+| maps.airforce          | available | $134.98   | —             | 56             | 31     | 4      | namecheap |
+| inspiration.airforce   | available | $134.98   | —             | 88             | 30     | 11     | namecheap |
+| rewards.airforce       | available | $103.99   | $103.99       | 62             | 30     | 7      | namesilo  |
+| heroes.airforce        | available | $134.98   | —             | 68             | 29     | 6      | namecheap |
+| cams.airforce          | available | $103.99   | $103.99       | 52             | 29     | 4      | namesilo  |
+| Jim.airforce           | available | $134.98   | —             | 78             | 28     | 3      | namecheap |
+| commonground.airforce  | available | $134.98   | —             | 74             | 28     | 13     | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,858-row public sample | 9,857 live domains                               |
+| 1,000-row public sample | 12,842 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
