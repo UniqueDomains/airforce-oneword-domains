@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .airforce one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,842 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,842 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,842 domains · **Median ask:** $130.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/airforce`  
 **Best for:** founders, investors, studios
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,842 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,842 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .airforce extension. That makes this selection highly specific: the keyword carries most of the branding weight, while the TLD adds a strong military and aviation-adjacent frame. Examples like sub.airforce, invite.airforce, manage.airforce, and leash.airforce show a wide range of fit, from operational terms to abstract words. The median ask is 130.65, which helps set a baseline for evaluating price discipline across the list. For founders, the key question is whether a word still reads clearly with .airforce. For investors, the main test is whether the pairing is specific enough to have buyer relevance without becoming too narrow.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this set use the .airforce extension
+- 12,842 one-word domains in a niche, highly specific TLD
+- Median ask is 130.65 across the selection
+- Best picks read naturally before .airforce
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
