@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .airforce one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,841 domains · **Median ask:** $130.65 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/airforce`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | spectra.airforce       | available | $134.98   | —             | 62             | 34     | 7      | namecheap |
 | payments.airforce      | available | $134.98   | —             | 58             | 33     | 8      | namecheap |
 | maps.airforce          | available | $134.98   | —             | 56             | 31     | 4      | namecheap |
-| inspiration.airforce   | available | $134.98   | —             | 88             | 30     | 11     | namecheap |
 | rewards.airforce       | available | $103.99   | $103.99       | 62             | 30     | 7      | namesilo  |
 | heroes.airforce        | available | $134.98   | —             | 68             | 29     | 6      | namecheap |
 | cams.airforce          | available | $103.99   | $103.99       | 52             | 29     | 4      | namesilo  |
 | Jim.airforce           | available | $134.98   | —             | 78             | 28     | 3      | namecheap |
 | commonground.airforce  | available | $134.98   | —             | 74             | 28     | 13     | namecheap |
+| pages.airforce         | available | $134.98   | —             | 52             | 28     | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
