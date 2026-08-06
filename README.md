@@ -1,10 +1,10 @@
-# Available .AIRFORCE One-Word Domains (12,841)
+# Available .AIRFORCE One-Word Domains (12,842)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C841%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C842%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .airforce one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,841 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,842 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,841 domains · **Median ask:** $115.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,842 domains · **Median ask:** $114.09 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/airforce`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/airforce`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .AIRFORCE one-word dom
 
 ### Files
 
-- `airforce.csv` — public CSV extract (1,000 rows)
-- `airforce.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `airforce.csv`, public CSV extract (1,000 rows)
+- `airforce.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| flow.airforce       | available | $103.99   | $103.99       | 96             | 68     | 4      | namesilo  |
-| enterprise.airforce | premium   | $85.80    | $85.80        | 68             | 61     | 10     | namecheap |
-| best.airforce       | available | $103.99   | $103.99       | 82             | 55     | 4      | namesilo  |
-| all.airforce        | premium   | $128.70   | $128.70       | 88             | 48     | 3      | namecheap |
-| local.airforce      | available | $103.99   | $103.99       | 102            | 53     | 5      | namesilo  |
-| russia.airforce     | premium   | $242      | $242          | 90             | 45     | 6      | namesilo  |
-| create.airforce     | available | $103.99   | $103.99       | 107            | 50     | 6      | namesilo  |
-| red.airforce        | premium   | $854      | $854          | 80             | 43     | 3      | namesilo  |
-| ben.airforce        | available | $103.99   | $103.99       | 84             | 49     | 3      | namesilo  |
-| andrew.airforce     | premium   | $138.60   | $138.60       | 70             | 40     | 6      | namecheap |
-| platform.airforce   | available | $103.99   | $103.99       | 92             | 48     | 8      | namesilo  |
-| america.airforce    | premium   | $242      | $242          | 72             | 32     | 7      | namesilo  |
-| our.airforce        | available | $103.99   | $103.99       | —              | 48     | 3      | namesilo  |
-| exchange.airforce   | premium   | $78.54    | $78.54        | 98             | 30     | 8      | namesilo  |
-| zen.airforce        | available | $103.99   | $103.99       | 94             | 47     | 3      | namesilo  |
-| seattle.airforce    | premium   | $242      | $242          | 70             | 29     | 7      | namesilo  |
-| random.airforce     | available | $103.99   | $103.99       | 84             | 46     | 6      | namesilo  |
-| wing.airforce       | premium   | $78.54    | $78.54        | 62             | 28     | 4      | namesilo  |
-| wave.airforce       | available | $134.98   | —             | 74             | 46     | 4      | namecheap |
-| salary.airforce     | premium   | $78.54    | $78.54        | 102            | 19     | 6      | namesilo  |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| out.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| come.airforce    | available | $103.99   | $103.99       | high           | low    | 4      | namesilo  |
+| clean.airforce   | available | $103.99   | $103.99       | high           | low    | 5      | namesilo  |
+| are.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| all.airforce     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
+| ben.airforce     | available | $103.99   | $103.99       | high           | medium | 3      | namesilo  |
+| red.airforce     | premium   | $854      | $854          | high           | medium | 3      | namesilo  |
+| bid.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| navy.airforce    | premium   | $250      | —             | high           | low    | 4      | name.com  |
+| boo.airforce     | available | $134.98   | —             | high           | low    | 3      | namecheap |
+| wing.airforce    | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo  |
+| cup.airforce     | available | $134.98   | —             | high           | low    | 3      | namecheap |
+| andrew.airforce  | premium   | $138.60   | $138.60       | high           | medium | 6      | namecheap |
+| cut.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| russia.airforce  | premium   | $242      | $242          | high           | medium | 6      | namesilo  |
+| die.airforce     | available | $134.98   | —             | medium         | low    | 3      | namecheap |
+| salary.airforce  | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo  |
+| dig.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| america.airforce | premium   | $242      | $242          | high           | low    | 7      | namesilo  |
+| don.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,841 live domains                        |
+| 1,000-row public sample | 12,842 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .airforce extension. That makes this selection highly specific: the keyword carries most of the branding weight, while the TLD adds a strong military and aviation-adjacent frame. Examples like sub.airforce, invite.airforce, manage.airforce, and leash.airforce show a wide range of fit, from operational terms to abstract words. The median ask is 130.65, which helps set a baseline for evaluating price discipline across the list. For founders, the key question is whether a word still reads clearly with .airforce. For investors, the main test is whether the pairing is specific enough to have buyer relevance without becoming too narrow.
+This list groups one-word domains on the .airforce extension, from everyday words like out, half, and christmas to shorter picks like okay and bad. Most of the 12,842 domains here are available to register directly rather than held by another owner, and the median ask sits near $114 with the bulk priced under $500. Demand signals lean low across the set, but a small number of domains — including show.airforce, watch.airforce, and motors.airforce — carry reference prices far above their current ask, making them worth a closer look. Renewal cost is the main risk factor to weigh: most domains here renew high relative to registration price, so checking that number before buying matters as much as the upfront ask.
 
-- All names in this set use the .airforce extension
-- 12,842 one-word domains in a niche, highly specific TLD
-- Median ask is 130.65 across the selection
-- Best picks read naturally before .airforce
+- 12,660 of 12,842 domains available now
+- Median ask $114; most list under $500
+- 9,109 domains carry high renewal costs
+- Only 13 domains score above 70 in demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
