@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .airforce one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,986 domains · **Median ask:** $110.54 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/airforce`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| out.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
-| arc.airforce     | available | $103.99   | $103.99       | medium         | medium | 3      | namesilo  |
-| all.airforce     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
-| are.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
-| red.airforce     | premium   | $854      | $854          | high           | medium | 3      | namesilo  |
-| ben.airforce     | available | $103.99   | $103.99       | high           | medium | 3      | namesilo  |
-| navy.airforce    | premium   | $250      | —             | high           | low    | 4      | name.com  |
-| bid.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
-| wing.airforce    | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo  |
-| boo.airforce     | available | $134.98   | —             | high           | low    | 3      | namecheap |
-| andrew.airforce  | premium   | $138.60   | $138.60       | high           | medium | 6      | namecheap |
-| cup.airforce     | available | $103.99   | $103.99       | medium         | low    | 3      | namesilo  |
-| russia.airforce  | premium   | $242      | $242          | high           | medium | 6      | namesilo  |
-| cut.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
-| salary.airforce  | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo  |
-| die.airforce     | available | $134.98   | —             | medium         | low    | 3      | namecheap |
-| america.airforce | premium   | $242      | $242          | high           | low    | 7      | namesilo  |
-| dig.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
-| seattle.airforce | premium   | $242      | $242          | high           | low    | 7      | namesilo  |
-| don.airforce     | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| arc.airforce      | available | $103.99   | $103.99       | medium         | medium | 3      | namesilo  |
+| all.airforce      | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
+| are.airforce      | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| red.airforce      | premium   | $854      | $854          | high           | medium | 3      | namesilo  |
+| ben.airforce      | available | $103.99   | $103.99       | high           | medium | 3      | namesilo  |
+| navy.airforce     | premium   | $250      | —             | high           | low    | 4      | name.com  |
+| bid.airforce      | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| wing.airforce     | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo  |
+| boo.airforce      | available | $134.98   | —             | high           | low    | 3      | namecheap |
+| andrew.airforce   | premium   | $138.60   | $138.60       | high           | medium | 6      | namecheap |
+| cup.airforce      | available | $103.99   | $103.99       | medium         | low    | 3      | namesilo  |
+| russia.airforce   | premium   | $242      | $242          | high           | medium | 6      | namesilo  |
+| cut.airforce      | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| salary.airforce   | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo  |
+| die.airforce      | available | $134.98   | —             | medium         | low    | 3      | namecheap |
+| america.airforce  | premium   | $242      | $242          | high           | low    | 7      | namesilo  |
+| dig.airforce      | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| seattle.airforce  | premium   | $242      | $242          | high           | low    | 7      | namesilo  |
+| don.airforce      | available | $103.99   | $103.99       | high           | low    | 3      | namesilo  |
+| exchange.airforce | premium   | $78.54    | $78.54        | high           | low    | 8      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AIRFORCE One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
