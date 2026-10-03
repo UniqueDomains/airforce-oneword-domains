@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+6ed4ca51-bbc4-4605-b595-23f74c110fb0,newhall.airforce,available,80.2,80.2,medium,low,7,cloudflare,,,02/10/2026 11:10
 d1833a34-6735-42c7-ba15-234f1bf44f98,slowness.airforce,available,80.2,80.2,medium,low,8,cloudflare,,,28/09/2026 23:49
-810369bf-fecd-4da0-98de-5a291e2455d8,goodwin.airforce,available,103.99,103.99,high,low,7,namesilo,,,
+810369bf-fecd-4da0-98de-5a291e2455d8,goodwin.airforce,available,83,83,high,low,7,spaceship,,,02/10/2026 13:51
 ec759d1d-d027-442e-aeed-3df8a06f500c,wailing.airforce,available,109.98,134.98,medium,low,7,namecheap,,,22/08/2026 19:04
 110ac984-1cb2-4192-a530-8c265bfd8b05,sudanese.airforce,available,103.99,103.99,high,low,8,namesilo,,,11/09/2026 01:05
 86eb6e51-213c-421b-a64d-35a341453d90,hera.airforce,available,103.99,103.99,high,low,4,namesilo,,,01/10/2026 02:29
@@ -16,9 +17,11 @@ cba2ad29-b754-40f0-8e2e-ffd06d1bfb50,birches.airforce,available,103.99,103.99,me
 c64b07d4-4c01-4d7b-9027-2e12fa685d83,adversary.airforce,available,103.99,103.99,medium,low,9,namesilo,,,17/09/2026 10:44
 3a8e1d68-bb55-40df-a1d8-cef8d6ceee83,adoringly.airforce,available,103.99,103.99,medium,low,9,namesilo,,,13/09/2026 17:23
 71c6e757-fd81-4b70-aef6-3e9a9657042f,spiraea.airforce,available,103.99,103.99,medium,low,7,namesilo,,,20/09/2026 17:28
+72d9dd83-e6ef-4e62-a443-fc76c19d8379,foreclosure.airforce,available,83,83,medium,low,11,spaceship,,,02/10/2026 12:40
 57f8adee-5863-4afc-ac98-f97ddf7f80e3,parliament.airforce,available,85.82,85.82,high,low,10,dynadot,,,29/09/2026 07:49
 d91bdf7c-db6b-4c2a-9b42-52a9460f091c,baseless.airforce,available,103.99,103.99,medium,low,8,namesilo,,,08/08/2026 21:44
 44069abf-68f3-4080-9dd8-4babf62299f8,cite.airforce,available,83,83,high,low,4,spaceship,,,01/10/2026 18:58
+9f77effa-13a2-403b-901e-b08db966c7ab,advocates.airforce,available,80.2,80.2,medium,low,9,cloudflare,,,02/10/2026 22:00
 d2cee3c2-4d4c-4684-8b68-6d1b0997948d,laic.airforce,available,109.98,134.98,medium,low,4,namecheap,,,22/08/2026 18:47
 f1378efd-cb1e-4f87-9020-fcd024a23d12,mak.airforce,available,85.82,85.82,high,low,3,dynadot,,,29/09/2026 13:22
 14c3e9ae-0721-47f2-9580-ae14358bb742,mcdonnell.airforce,available,103.99,103.99,high,low,9,namesilo,,,27/09/2026 02:55
@@ -30,14 +33,19 @@ dae16966-5436-487e-adc9-461d8a6df7f9,arpeggio.airforce,available,109.98,134.98,h
 b7a03b25-43b4-4c12-ad12-8948d506788d,trails.airforce,available,103.99,103.99,medium,low,6,namesilo,,,29/09/2026 11:32
 f3c188fb-bcf0-491a-9074-ad686ebd9f1d,elbe.airforce,available,83,83,medium,low,4,spaceship,,,28/09/2026 19:03
 3022c732-6486-4a34-8415-6af8459c602f,mere.airforce,available,109.98,134.98,high,low,4,namecheap,,,25/09/2026 19:33
+fb72e633-1a96-401a-8c61-1433db2c0071,rectum.airforce,available,83,83,high,low,6,spaceship,,,02/10/2026 16:33
+4c34af12-a131-4426-b324-42d0a67de0ce,magnification.airforce,available,103.99,103.99,medium,low,13,namesilo,,,02/10/2026 11:43
 aa4f9c26-8725-4ee4-9492-9d24777ba704,mitotic.airforce,available,103.99,103.99,medium,low,7,namesilo,,,25/08/2026 02:08
 37c98645-8480-4841-b0d9-9217ecc102ef,metabolous.airforce,available,109.98,134.98,medium,low,10,namecheap,,,24/08/2026 21:28
 a2aae1cf-b821-47d5-a16e-532696aa34a7,dried.airforce,available,109.98,134.98,high,low,5,namecheap,,,14/08/2026 18:59
+bd8f067f-202a-45c8-a905-467e7af8be04,randal.airforce,available,83,83,high,low,6,spaceship,,,02/10/2026 19:58
 ecc98329-4eba-448b-8a12-60ae00363f2d,barbican.airforce,available,103.99,103.99,medium,low,8,namesilo,,,22/09/2026 04:18
 4aa08cd4-1197-4cc5-9253-680753f488b8,additive.airforce,available,103.99,103.99,high,low,8,namesilo,,,
+46db5920-617c-4fc5-81ea-c1f6cd77b625,hideyoshi.airforce,available,80.2,80.2,high,low,9,cloudflare,,,02/10/2026 20:48
 77bee1dc-13cb-40aa-ba72-a59e4c27b9a2,sponsored.airforce,available,103.99,103.99,medium,low,9,namesilo,,,29/09/2026 10:41
 cf71652b-2f0c-4eb9-a528-2e5b3154e8b4,keyboard.airforce,available,83,83,high,low,8,spaceship,,,28/09/2026 19:38
 2a31cd97-2a38-496d-96bd-c4c515f25c37,bombast.airforce,available,103.99,103.99,medium,low,7,namesilo,,,24/09/2026 03:35
+f72abbcc-286c-4bac-9ef1-d234f0b03151,crusades.airforce,available,103.99,103.99,medium,low,8,namesilo,,,02/10/2026 22:27
 520923b7-665e-4282-a995-d4d8b451e8f5,gerrard.airforce,available,103.99,103.99,medium,low,7,namesilo,,,01/10/2026 10:05
 67c4e671-1c64-47f2-87e4-a29629b1302a,neurology.airforce,available,177.99,177.99,high,low,9,godaddy,,,01/10/2026 01:29
 1f062c07-a487-4ad1-9d0a-8bd239b3cedc,overflowing.airforce,available,80.2,80.2,high,low,11,cloudflare,,,01/10/2026 05:59
@@ -55,10 +63,12 @@ d7c4fb05-3a60-40df-b319-b95183f8b47c,query.airforce,available,83,83,high,low,5,s
 babbd45b-279c-453b-9b60-7fbed202b6ad,polyatomic.airforce,available,103.99,103.99,medium,low,10,namesilo,,,08/09/2026 23:10
 fa09b115-99da-4021-ac40-a5c59807459d,nashville.airforce,premium,242,242,high,low,9,namesilo,,,29/09/2026 07:04
 4834faae-a8dd-4ced-a0ad-158987b9f544,nashua.airforce,available,83,83,medium,low,6,spaceship,,,29/09/2026 22:37
+96901efe-9b56-4a30-8278-aba9e889a1c2,kunming.airforce,available,83,83,medium,low,7,spaceship,,,02/10/2026 19:45
 b5604785-e1e9-43bb-ba04-1a3e6699abc0,time.airforce,available,83,83,high,medium,4,spaceship,,,01/10/2026 20:18
 d8222e76-8cdb-4984-9189-eabe20fcabb6,vogel.airforce,available,83,83,high,low,5,spaceship,,,28/09/2026 04:48
 9d748788-52d9-42ef-a1fd-0e3b6f156069,fairbanks.airforce,premium,,,medium,low,9,,,,30/09/2026 01:22
 4ed5a6d1-a9dd-4beb-8a99-e6238a467645,tart.airforce,available,149.99,149.99,medium,low,4,name.com,,,13/08/2026 14:25
+e5306709-21a1-45da-af33-45dab6afce74,prr.airforce,available,80.2,80.2,medium,low,3,cloudflare,,,02/10/2026 19:05
 f65eccf3-48b7-47ca-ae1b-26bc1d9b8099,gears.airforce,available,134.98,,medium,low,5,namecheap,,,
 437fef09-7a28-4507-b863-94eea2b906b0,fatigued.airforce,available,103.99,103.99,medium,low,8,namesilo,,,14/08/2026 14:49
 0ecab30c-4479-432c-bfe4-7c63fd9fec53,courtney.airforce,available,109.98,134.98,high,low,8,namecheap,,,25/09/2026 21:37
@@ -82,6 +92,7 @@ d3d3f84e-6666-438e-adc0-bc98a859142d,earliest.airforce,available,103.99,103.99,m
 ac2d310b-753e-48c8-8a39-08345b053f22,aca.airforce,available,103.99,103.99,high,low,3,namesilo,,,29/09/2026 09:04
 b9285ed5-4d2f-4e5b-8716-57bb55123f46,macrophages.airforce,available,83,83,low,low,11,spaceship,,,28/09/2026 13:24
 b03ba237-459c-441b-ac35-d5e61cd478c2,fins.airforce,available,80.2,80.2,medium,low,4,cloudflare,,,30/09/2026 06:35
+828a2437-a4af-4137-bd3c-25e573ab4b9e,sociologist.airforce,available,85.82,85.82,high,low,11,dynadot,,,03/10/2026 03:08
 2b7e23c3-fae3-42b8-b29c-350257107265,examiner.airforce,available,103.99,103.99,medium,low,8,namesilo,,,28/09/2026 14:05
 02c83a9e-1911-4830-91a4-9093323521e6,unquiet.airforce,available,103.99,103.99,medium,low,7,namesilo,,,12/09/2026 17:40
 83a1406f-742b-497e-a632-3ff38454eb21,nighted.airforce,available,103.99,103.99,low,low,7,namesilo,,,09/08/2026 14:33
@@ -110,6 +121,8 @@ fae297ca-92be-4664-ac4c-1c16d085fc11,lodge.airforce,available,103.99,103.99,high
 cab0a1d7-9ff6-4e69-b16c-337cfbe1ac65,northward.airforce,available,109.98,134.98,high,low,9,namecheap,,,03/09/2026 21:27
 10a70d7c-f69f-4b4b-97ae-6f86c6e9993e,parvati.airforce,available,109.98,134.98,medium,low,7,namecheap,,,19/09/2026 02:21
 52c59d1e-3392-4316-ab3a-830c7dbd6f3a,crowds.airforce,available,83,83,medium,low,6,spaceship,,,28/09/2026 17:41
+c558a8bf-9829-4b39-bdf9-d0d951ca9eaf,carrara.airforce,available,82.9,82.9,medium,low,7,porkbun,,,02/10/2026 11:43
+d39138c6-a140-44bb-a686-e15abd73fb28,seclusion.airforce,available,82.9,82.9,high,low,9,porkbun,,,02/10/2026 16:25
 fcb2bcfd-7936-48a1-b372-d8df4efa1a7e,waiter.airforce,available,103.99,103.99,high,low,6,namesilo,,,30/09/2026 10:59
 e126bbe5-148b-4eb4-a7c1-7085311e47b1,sibling.airforce,available,83,83,high,low,7,spaceship,,,29/09/2026 20:18
 442ea060-85f5-4da9-b055-cd53ade88d36,collect.airforce,available,103.99,103.99,high,low,7,namesilo,,,12/08/2026 15:03
@@ -123,6 +136,7 @@ c32c8d0b-6923-4ea6-9df9-d1ddf36d9109,lamentably.airforce,available,103.99,103.99
 d1bf7f32-7410-4622-87d7-94e09e041743,swore.airforce,available,80.2,80.2,medium,low,5,cloudflare,,,28/09/2026 04:28
 40d124c1-5a8f-4b38-85db-bed27f2afab5,striking.airforce,available,103.99,103.99,high,low,8,namesilo,,,27/09/2026 07:25
 df1cead4-a4c2-49c7-9116-3b3c9e000652,printed.airforce,available,80.2,80.2,high,low,7,cloudflare,,,27/09/2026 21:56
+0b7c3d26-d48a-4b69-b8cd-72a6eb1e687e,bobbie.airforce,available,103.99,103.99,high,low,6,namesilo,,,02/10/2026 08:23
 f38e9016-3f22-4fef-98b4-7c128a539c30,truman.airforce,available,83,83,medium,low,6,spaceship,,,28/09/2026 10:00
 0b469b5f-a9cf-435b-ac83-56df3155e913,deniable.airforce,available,103.99,103.99,medium,low,8,namesilo,,,14/08/2026 01:50
 48abaf97-e119-42ce-bb69-a7a09b7a7eac,wiggins.airforce,available,103.99,103.99,high,low,7,namesilo,,,28/09/2026 16:37
@@ -149,6 +163,7 @@ fd8de5c8-fb0b-41fe-aaa5-3b07774eca37,smokers.airforce,available,109.98,134.98,me
 7cf1c1b6-240a-4948-9b43-e40b3e046a6e,snip.airforce,available,103.99,103.99,high,low,4,namesilo,,,24/09/2026 15:44
 7d3a959c-a974-42ff-b303-e1ba11d95888,comal.airforce,available,109.98,134.98,medium,low,5,namecheap,,,12/08/2026 18:23
 7921365f-f2e2-4be6-96dc-d24be4f481ac,ixl.airforce,available,103.99,103.99,medium,low,3,namesilo,,,
+8b2e4262-5fc1-4da8-8d74-d874be3d1c3f,speculative.airforce,available,103.99,103.99,medium,low,11,namesilo,,,02/10/2026 07:16
 cda07916-167e-4e3b-bfac-494a9f82d753,cardiff.airforce,available,103.99,103.99,high,low,7,namesilo,,,28/09/2026 01:26
 8dbbf6cb-282b-426b-8258-c08c9af67276,blackburn.airforce,available,103.99,103.99,high,low,9,namesilo,,,24/09/2026 02:11
 c263cf5c-e7e0-4ba1-b79b-c6750b32287e,effeminate.airforce,available,103.99,103.99,medium,low,10,namesilo,,,12/08/2026 08:34
@@ -157,10 +172,11 @@ c263cf5c-e7e0-4ba1-b79b-c6750b32287e,effeminate.airforce,available,103.99,103.99
 1f0c2eda-7e35-45ce-a88a-fec72bebb152,aspheric.airforce,available,103.99,103.99,medium,low,8,namesilo,,,07/08/2026 04:52
 dbebac87-1c29-4439-95b1-39527ec7fd7e,induction.airforce,available,80.2,80.2,high,low,9,cloudflare,,,29/09/2026 12:10
 2bb29a06-9cbe-4cb8-a590-e5bdc0a293fa,mouthwash.airforce,available,134.98,,high,low,10,namecheap,,,
-9d66df7d-c411-481d-9f78-ef6470a86cf4,recognition.airforce,available,103.99,103.99,high,low,11,namesilo,,,
+9d66df7d-c411-481d-9f78-ef6470a86cf4,recognition.airforce,available,83,83,high,low,11,spaceship,,,02/10/2026 21:11
 90ca6d1d-6779-4345-973f-d2b6a4ca5394,calculated.airforce,available,103.99,103.99,high,low,10,namesilo,,,11/08/2026 13:58
 28986c8d-ddc1-42ad-a470-bd1dde2b7d76,lovers.airforce,available,103.99,103.99,high,low,6,namesilo,,,27/09/2026 02:55
 987a2662-9ca5-4b94-bef4-b671bf6052a6,tropical.airforce,available,109.98,134.98,high,low,8,namecheap,,,11/09/2026 20:24
+796b64dc-fbf7-4b33-81f8-0e809fe07e27,launceston.airforce,available,83,83,medium,low,10,spaceship,,,02/10/2026 20:38
 d05ad941-4245-46f8-997a-6bf06d19e2b5,drunkard.airforce,available,109.98,134.98,medium,low,8,namecheap,,,14/08/2026 20:21
 360c209f-088d-407b-a0f7-5c7269260e95,motel.airforce,available,103.99,103.99,high,low,5,namesilo,,,25/09/2026 09:27
 c12d4dc3-d5f9-42e1-b56a-167552c33b70,admiral.airforce,available,103.99,103.99,high,low,7,namesilo,,,17/09/2026 08:46
@@ -182,7 +198,10 @@ f66d8b2d-07cc-4b3f-b3e6-9ea723a8ce0c,principled.airforce,available,103.99,103.99
 46b1d386-fc38-453e-b5d8-11be46b19e8b,combining.airforce,available,83,83,high,low,9,spaceship,,,29/09/2026 18:23
 ee9e4618-1c1f-443f-970c-d2730b60857b,bewilder.airforce,available,103.99,103.99,high,low,8,namesilo,,,21/09/2026 17:30
 e2f9af8f-c4fb-4541-a615-8fc407fd2e97,down.airforce,available,103.99,103.99,high,low,4,namesilo,,,24/09/2026 11:53
+cf71717d-8220-4125-a1a3-b9d500a1baed,subspecies.airforce,available,103.99,103.99,medium,low,10,namesilo,,,02/10/2026 06:30
+3fb3e581-9fd7-47e4-95a0-e1cd6b9ed8e5,fulda.airforce,available,80.2,80.2,medium,low,5,cloudflare,,,02/10/2026 20:14
 5de919fd-2a1d-4af2-8134-b6590e0c439a,modernisation.airforce,available,103.99,103.99,high,low,13,namesilo,,,30/09/2026 23:56
+8c0e4174-30ba-4fce-8cf6-d46351d2d3a6,convinces.airforce,available,80.2,80.2,medium,low,9,cloudflare,,,02/10/2026 22:25
 024a2b50-96a1-458a-9e52-6aeffab56012,estelle.airforce,available,83,83,medium,low,7,spaceship,,,29/09/2026 03:59
 d3636aef-596e-423a-bbdd-6229002d989d,galton.airforce,available,80.2,80.2,medium,low,6,cloudflare,,,01/10/2026 19:37
 cad4d6d1-46da-44bd-9bdb-83ac4ff8c331,carambola.airforce,available,109.98,134.98,medium,low,9,namecheap,,,21/09/2026 09:14
@@ -195,6 +214,7 @@ f523e1ba-3679-4d15-b0fd-59ef986c7a4f,switches.airforce,available,103.99,103.99,m
 5ce3bd83-3e0f-4947-9fb9-2887519779c1,beauregard.airforce,available,103.99,103.99,high,low,10,namesilo,,,29/09/2026 21:40
 7250bcd3-dbb5-457f-91cc-3cef88b920de,disclosed.airforce,available,103.99,103.99,medium,low,9,namesilo,,,24/09/2026 11:06
 c353dac6-2d50-4495-88de-7bb6b3959216,clemson.airforce,available,103.99,103.99,high,low,7,namesilo,,,27/09/2026 07:07
+8f69b0b3-1af4-471f-ba4b-d014ce49f056,piled.airforce,available,83,83,medium,low,5,spaceship,,,02/10/2026 12:34
 7318d44a-da25-449b-9b13-5c714d45a870,comprehensive.airforce,available,103.99,103.99,medium,low,13,namesilo,,,29/09/2026 02:53
 e58ca455-ad62-408c-93c3-9560a155b50c,harnessed.airforce,available,103.99,103.99,medium,low,9,namesilo,,,21/08/2026 01:05
 7beb9dea-cdc0-4f19-a9ef-975d43a66ff4,emmett.airforce,available,103.99,103.99,medium,low,6,namesilo,,,28/09/2026 08:01
@@ -211,6 +231,7 @@ f02b0846-4a74-41d1-81ac-738d3161a043,dlc.airforce,available,82.9,82.9,high,low,3
 d513b57c-eedf-4b94-bfd9-4e81f77862fb,gilman.airforce,available,103.99,103.99,medium,low,6,namesilo,,,28/09/2026 09:22
 4ceebced-99c7-4539-aa35-f07286f578d3,inflamed.airforce,available,103.99,103.99,medium,low,8,namesilo,,,22/08/2026 04:27
 5ed9b4f2-f085-4522-9445-9cee4ddf9488,conscientious.airforce,available,85.82,85.82,high,low,13,dynadot,,,30/09/2026 19:32
+93f4d1ce-0968-44cd-b462-52de6294a45c,petrie.airforce,available,103.99,103.99,medium,low,6,namesilo,,,02/10/2026 09:56
 ecb3846c-e65d-4689-9e49-2107316a3294,acyclovir.airforce,available,103.99,103.99,medium,low,9,namesilo,,,17/09/2026 05:41
 d07dc8a5-5d6c-49a6-9fe2-640a983959b1,darrow.airforce,available,80.2,80.2,medium,low,6,cloudflare,,,30/09/2026 09:12
 3a5013aa-4e5f-4f7d-8303-2377692d2f31,subfusc.airforce,available,103.99,103.99,medium,low,7,namesilo,,,10/09/2026 23:47
@@ -249,9 +270,11 @@ d1615e5e-e960-4fc7-bf9d-851870912d98,below.airforce,available,103.99,103.99,high
 29187ce2-4b60-4404-a4bd-f7ea7e76e854,abbot.airforce,available,103.99,103.99,medium,low,5,namesilo,,,16/09/2026 14:31
 9939fd6a-5b97-4d90-9c2f-b1ce726d53c8,today.airforce,available,103.99,103.99,high,low,5,namesilo,,,28/09/2026 22:29
 4b4153c3-5c3e-4f5c-8a1b-14d6b0929566,sponsor.airforce,available,103.99,103.99,high,low,7,namesilo,,,18/08/2026 15:15
+6a1381a3-e3ba-4fbf-92c2-d3f523ec07ba,grooming.airforce,available,109.98,134.98,high,low,8,namecheap,,,02/10/2026 05:08
 e624a039-e6fc-4165-bc9b-63def61c89c5,whopping.airforce,available,103.99,103.99,medium,low,8,namesilo,,,08/08/2026 13:14
 363153eb-10d3-4956-b65c-eefb9df90cb5,last.airforce,available,103.99,103.99,high,low,4,namesilo,,,30/09/2026 14:49
 3eca25f4-8bf4-424e-a008-d37cd7121f31,bargain.airforce,available,103.99,103.99,high,low,7,namesilo,,,29/09/2026 01:09
+ad917cf1-4c4a-4076-ad3e-d1bcfc1bbd49,santi.airforce,available,80.2,80.2,medium,low,5,cloudflare,,,02/10/2026 20:15
 9425e42e-b77d-4a93-bed0-5f68b86c692d,swim.airforce,available,83,83,high,low,4,spaceship,,,28/09/2026 02:10
 eb9c5bac-7720-4dce-8608-e1604f43309d,substance.airforce,available,103.99,103.99,high,low,9,namesilo,,,14/09/2026 23:41
 d9a74686-db69-4a6c-ba1e-6acc84f80a69,cyclopean.airforce,available,149.99,149.99,medium,low,9,name.com,,,13/08/2026 13:51
@@ -263,6 +286,7 @@ dbbf20e9-910c-4ca8-b6df-d6d74d301cab,highway.airforce,available,109.98,134.98,hi
 e69911cb-4ab5-4655-9d24-c95a4673194d,murdered.airforce,available,103.99,103.99,medium,low,8,namesilo,,,03/09/2026 11:02
 f06d21d8-a1ff-4d98-8034-ba931aa002b3,briefing.airforce,available,85.82,85.82,high,low,8,dynadot,,,29/09/2026 04:17
 5675e020-9687-4305-ac73-ba3c26c8af19,stratigraphy.airforce,available,83,83,medium,low,12,spaceship,,,28/09/2026 22:57
+e153022e-3ca3-4556-8f22-b1614dc735b6,converging.airforce,available,80.2,80.2,high,low,10,cloudflare,,,03/10/2026 00:11
 fe9b851c-d66c-41ed-865e-6dc84a263bee,slovakian.airforce,available,103.99,103.99,medium,low,9,namesilo,,,10/09/2026 11:16
 fd9fd9c4-beb6-4f58-bf6f-c29dcc74e18f,lip.airforce,available,109.98,134.98,high,low,3,namecheap,,,29/09/2026 00:19
 15e4ed7e-2ba7-4f6f-9e3c-e57cf9559235,adamance.airforce,available,109.98,134.98,medium,low,8,namecheap,,,17/09/2026 06:15
@@ -283,9 +307,10 @@ ed8a58b3-1d0d-4ba1-b044-79888cf41ffa,lab.airforce,available,83,83,high,medium,3,
 ca03a0ef-4a49-4850-a00a-4db632a1a62d,crows.airforce,available,103.99,103.99,high,low,5,namesilo,,,20/09/2026 17:41
 d8777db0-8b89-4a20-a530-ff729c0dc4a6,adjustments.airforce,available,103.99,103.99,medium,low,11,namesilo,,,30/09/2026 00:44
 b7311f56-4bfb-416c-8b11-3c0d8945a865,gallons.airforce,available,103.99,103.99,low,low,7,namesilo,,,28/09/2026 23:47
+f4617fe9-9aea-435d-8884-eae5878cc6b5,lederer.airforce,available,82.9,82.9,medium,low,7,porkbun,,,02/10/2026 10:26
 4ddff192-d046-417c-a6d9-bb5d6a612ed2,alleyway.airforce,available,103.99,103.99,medium,low,8,namesilo,,,19/09/2026 04:05
 9b96e0eb-bd99-4994-882a-cf7c26f6c6b8,barlow.airforce,available,80.2,80.2,high,low,6,cloudflare,,,29/09/2026 03:31
-a03ddb5f-4de4-43ef-8183-ff7f84269859,seals.airforce,available,103.99,103.99,high,low,5,namesilo,,,
+a03ddb5f-4de4-43ef-8183-ff7f84269859,seals.airforce,available,83,83,high,low,5,spaceship,,,02/10/2026 13:57
 60780bb8-792e-4c66-a4ec-ba0714a2142b,pritchard.airforce,available,83,83,medium,low,9,spaceship,,,28/09/2026 12:14
 66b14314-82bb-443f-839d-434a6ee0d4fb,depth.airforce,available,80.2,80.2,high,low,5,cloudflare,,,28/09/2026 01:46
 89d70a89-3317-408e-a4eb-50b740113a9f,acetous.airforce,available,103.99,103.99,medium,low,7,namesilo,,,
@@ -327,6 +352,7 @@ adcc6d6e-4971-431e-a36c-0babbd602640,mickey.airforce,available,149.99,149.99,hig
 679d1623-e768-47fd-a4f4-2cae47bd4e99,sarkar.airforce,available,103.99,103.99,high,low,6,namesilo,,,01/10/2026 23:28
 e576a66c-090c-4d40-8293-dcf91c6be9fe,coaster.airforce,available,83,83,high,low,7,spaceship,,,28/09/2026 18:46
 6b915961-e158-4ff2-a32c-37544e3618b4,director.airforce,available,82.9,82.9,high,low,8,porkbun,,,29/09/2026 10:50
+b0380c99-2456-46ae-b004-66836f3cc72f,evie.airforce,available,82.9,82.9,high,low,4,porkbun,,,02/10/2026 19:49
 a048ee0a-30d8-465a-820b-e01c29c35ad7,devoting.airforce,available,109.98,134.98,medium,low,8,namecheap,,,17/09/2026 17:04
 c3f20691-f7d4-4aad-a460-0f3b127329d7,pariah.airforce,available,109.98,134.98,medium,low,6,namecheap,,,04/09/2026 19:07
 8f592f52-be59-42db-be3a-1f46e40882e5,apse.airforce,available,103.99,103.99,high,low,4,namesilo,,,19/09/2026 22:33
@@ -337,6 +363,7 @@ ff9bfccc-3ba5-42f6-8b0f-5f20e40b10f1,antoine.airforce,available,103.99,103.99,hi
 3cad14ab-1268-4853-8003-f0136ab351e2,lambert.airforce,premium,85.8,85.8,high,low,7,namecheap,,,28/09/2026 13:45
 dcea3db5-a248-478a-9894-a378133195a9,attenuator.airforce,available,103.99,103.99,medium,low,10,namesilo,,,21/09/2026 01:34
 73772239-01d8-418d-abd7-69e1057dbbc8,institute.airforce,available,80.2,80.2,high,low,9,cloudflare,,,28/09/2026 06:02
+9c066cff-7b00-479a-848a-bb9b4fb70a52,vms.airforce,available,109.98,134.98,high,low,3,namecheap,,,02/10/2026 20:08
 6b488274-3d59-4789-9443-094fd3c3dcde,christy.airforce,available,83,83,high,low,7,spaceship,,,29/09/2026 21:38
 a67b1d1d-024f-48f5-9779-3e328c0bcea4,stinging.airforce,available,149.99,149.99,high,low,8,name.com,,,13/08/2026 13:17
 f6e8c2c0-8e3d-47e7-9593-6d4938a95aca,doherty.airforce,available,85.82,85.82,medium,low,7,dynadot,,,28/09/2026 04:19
@@ -369,26 +396,30 @@ ee201e2c-1d71-4e55-8c72-56aee5beecb8,suing.airforce,available,109.98,134.98,medi
 000f1984-be31-4275-9d0d-60ab25a02b66,batsman.airforce,available,103.99,103.99,medium,low,7,namesilo,,,22/09/2026 14:19
 18ff6229-8f24-4c58-9bb7-e80bd6a528f5,emporium.airforce,available,83,83,high,low,8,spaceship,,,29/09/2026 02:36
 1a31f4a6-1cba-4a28-95f2-bc07166762ea,cara.airforce,available,103.99,103.99,high,low,4,namesilo,,,28/09/2026 22:02
-7c4e1a24-c4bf-4c1d-898c-ed01933ce1b6,efficiency.airforce,available,85.82,85.82,high,low,10,dynadot,,,30/09/2026 13:30
+7c4e1a24-c4bf-4c1d-898c-ed01933ce1b6,efficiency.airforce,available,80.2,80.2,high,low,10,cloudflare,,,02/10/2026 19:45
 f9c9cc64-8473-4b5b-8ea5-c1853e4542af,commonly.airforce,available,83,83,medium,low,8,spaceship,,,28/09/2026 14:12
 4ca686f0-ebd5-4746-ae2a-ac6834b46307,nature.airforce,available,103.99,103.99,high,low,6,namesilo,,,08/09/2026 02:43
 817e375b-c174-45a6-98b4-8a192c8f2298,swollen.airforce,available,103.99,103.99,high,low,7,namesilo,,,23/09/2026 18:42
 47a41ac3-baa9-446f-8c80-77b03bd719c9,gershwin.airforce,available,80.2,80.2,high,low,8,cloudflare,,,30/09/2026 01:44
-1149dfda-c3cf-4454-bd2b-e08f33582b5a,nonviolent.airforce,available,109.98,134.98,high,low,10,namecheap,,,03/09/2026 21:04
+1149dfda-c3cf-4454-bd2b-e08f33582b5a,nonviolent.airforce,available,80.2,80.2,high,low,10,cloudflare,,,02/10/2026 21:47
 e32a0238-21fa-4e2a-b13e-8f5bf9cdef4c,clinically.airforce,available,83,83,medium,low,10,spaceship,,,28/09/2026 13:58
 814af23a-4900-47c2-85d3-ef3086d2a248,offspring.airforce,available,83,83,high,low,9,spaceship,,,28/09/2026 11:24
 8bce4299-98bd-46f7-b32c-faec26f1a0d9,nilotic.airforce,available,103.99,103.99,medium,low,7,namesilo,,,03/09/2026 17:26
+8dc1107b-7a51-47d7-9d0b-ac1728357d3a,lodz.airforce,available,83,83,medium,low,4,spaceship,,,03/10/2026 01:31
 445f6a10-5769-4a2f-8d1d-9ceb79b545a9,particle.airforce,available,109.98,134.98,high,low,8,namecheap,,,24/09/2026 18:19
 eb845f13-a248-4ba1-83d6-513a4be55ec5,ugly.airforce,available,149.99,149.99,high,low,4,name.com,,,24/09/2026 06:45
 a889d6ba-dee3-496c-a658-99c9064a61bf,visas.airforce,available,103.99,103.99,medium,low,5,namesilo,,,02/10/2026 03:24
+934705e7-b9b2-4933-80a4-fe66791d20c1,mingo.airforce,available,80.2,80.2,high,low,5,cloudflare,,,02/10/2026 08:29
 9a9e2820-a0ae-4806-9851-4dd85c1a438d,economics.airforce,available,83,83,high,low,9,spaceship,,,28/09/2026 19:02
 e3c37c54-5227-41fe-8c67-3ccb60f32c5c,aragonite.airforce,available,109.98,134.98,medium,low,9,namecheap,,,19/09/2026 23:43
 6f75d442-702b-4017-8030-0d520524cb85,neutron.airforce,available,80.2,80.2,high,low,7,cloudflare,,,29/09/2026 07:41
+be938b6d-b7c0-4b96-ac6f-e05da1430d81,karabakh.airforce,available,80.2,80.2,medium,low,8,cloudflare,,,02/10/2026 09:33
 1d7c9ef5-083b-4f4e-b82e-b61718c46b78,conan.airforce,available,103.99,103.99,high,low,5,namesilo,,,28/09/2026 07:59
 5c2bfd3c-bd79-47de-821d-1524f31e7a8f,expectancy.airforce,available,109.98,134.98,high,low,10,namecheap,,,19/09/2026 14:15
 38ecdb45-68e4-49b8-9f9a-09d0e8ee03d0,recorder.airforce,available,80.2,80.2,high,low,8,cloudflare,,,28/09/2026 09:46
 8ba66c24-7234-415c-8fd4-38b2289211a3,surely.airforce,available,109.98,134.98,high,low,6,namecheap,,,24/09/2026 20:56
 5a1f3dd2-62ff-4b10-8034-30e0dade7054,cannoneer.airforce,available,103.99,103.99,high,low,9,namesilo,,,20/09/2026 11:44
+52643e91-36d5-4e21-8bd3-13a7e64d4adb,cecily.airforce,available,103.99,103.99,medium,low,6,namesilo,,,02/10/2026 19:48
 1a68626a-4977-4989-b8a2-46aebf1d46f3,dataflow.airforce,available,103.99,103.99,high,low,9,namesilo,,,04/09/2026 04:48
 f74c9d4f-d3ad-42c7-9aa0-71d1abbb3390,pecos.airforce,available,83,83,medium,low,5,spaceship,,,29/09/2026 19:57
 1412f3b7-39e2-4a54-bfb4-cfb1b38fca0c,discursive.airforce,available,103.99,103.99,medium,low,10,namesilo,,,14/08/2026 06:00
@@ -403,6 +434,7 @@ a45c5543-7991-44f6-bfbb-3360c3982450,bushy.airforce,available,103.99,103.99,high
 7fa1fbf9-4afa-4b8f-b36d-1da6df5b3975,main.airforce,available,109.98,134.98,high,low,4,namecheap,,,23/09/2026 09:34
 1ec91fa1-4d1f-4537-960b-08ac769d2844,sunglass.airforce,available,83,83,high,low,8,spaceship,,,30/09/2026 12:22
 537d9da4-6293-4a3e-81d9-4fa176a358e9,bit.airforce,available,103.99,103.99,high,medium,3,namesilo,,,29/09/2026 02:55
+9315e7ca-3905-43ce-b996-59b40897be08,watcher.airforce,available,85.82,85.82,high,low,7,dynadot,,,03/10/2026 01:31
 c99e4d92-ce7b-4eea-a829-979b086f80ad,prey.airforce,available,109.98,134.98,high,low,4,namecheap,,,27/09/2026 13:29
 2f38c67c-ad80-4ec5-a49d-06dabf1e5788,momentary.airforce,available,103.99,103.99,medium,low,9,namesilo,,,18/08/2026 07:54
 c9b70ede-3884-4ae5-ae3c-4b10d2fd2936,slideshow.airforce,available,103.99,103.99,high,low,10,namesilo,,,
@@ -415,7 +447,7 @@ a5fab9bd-8c64-4870-b275-b756d4cf0e49,bereft.airforce,available,103.99,103.99,low
 f5ccf6b2-4b67-4e91-b9db-5fa5f04fa1ab,adrien.airforce,available,103.99,103.99,medium,low,6,namesilo,,,02/10/2026 03:15
 1375aa1b-f19b-4c9a-a63d-eeadabbf4d60,epiphytic.airforce,available,103.99,103.99,high,medium,9,namesilo,,,17/08/2026 11:07
 03d03bcd-e5b9-4fb2-a9ed-fd2b299eeed6,dore.airforce,available,103.99,103.99,medium,low,4,namesilo,,,01/10/2026 10:12
-d7c9efea-15b5-4d0b-970f-53ce0f2fd488,clients.airforce,available,80.2,80.2,high,low,7,cloudflare,,,30/09/2026 15:50
+d7c9efea-15b5-4d0b-970f-53ce0f2fd488,clients.airforce,available,103.99,103.99,high,low,7,namesilo,,,02/10/2026 22:03
 28230f55-bb0f-4e15-98c5-65616a0bf4aa,arccos.airforce,available,103.99,103.99,medium,low,6,namesilo,,,20/09/2026 01:15
 5bd7d262-1a72-4e20-86e1-f53f9c304964,consist.airforce,available,83,83,high,low,7,spaceship,,,30/09/2026 17:36
 69dd54c9-b8b8-43a0-9ee0-89f332edbfc8,barbel.airforce,available,103.99,103.99,medium,low,6,namesilo,,,22/09/2026 04:47
@@ -450,6 +482,7 @@ edfffbb1-2840-43c7-846c-3fc9166fc296,commits.airforce,available,83,83,medium,low
 ace35bfc-2e49-42f1-89dc-f66c6ac74d4c,ways.airforce,available,103.99,103.99,high,low,4,namesilo,,,30/09/2026 11:08
 31cea74f-ee42-4161-a05a-ac7988092542,laser.airforce,available,109.98,134.98,high,low,5,namecheap,,,28/09/2026 02:15
 c45ff88a-275e-43ae-9523-0dbf8b9d5543,castro.airforce,available,103.99,103.99,medium,low,6,namesilo,,,28/09/2026 09:15
+5363b7dd-4e5e-4759-85a0-60641b80f3b9,integrative.airforce,available,80.2,80.2,high,low,11,cloudflare,,,02/10/2026 18:25
 0f9d40f9-433d-4b45-bb10-8eaf176a3ffb,dextrous.airforce,available,103.99,103.99,high,low,8,namesilo,,,13/08/2026 23:53
 ac66abca-b07c-43b0-b03e-422aad18e342,paunchy.airforce,available,103.99,103.99,medium,low,7,namesilo,,,
 37b0d157-3cc3-401f-ba3e-1f68de89829b,amman.airforce,available,103.99,103.99,medium,low,5,namesilo,,,18/09/2026 21:59
@@ -463,24 +496,26 @@ f9588921-efaf-4ecb-90e7-124969b6aae9,lviv.airforce,available,83,83,medium,low,4,
 68cedbb5-2351-42d0-9263-a60a70744fea,run.airforce,available,103.99,103.99,high,medium,3,namesilo,,,19/09/2026 07:07
 e0c5d453-519a-44fe-ac56-3e8f0ef5d44a,relation.airforce,available,80.2,80.2,high,low,8,cloudflare,,,27/09/2026 11:47
 b91efaf6-7a01-487e-827a-19a9afd5247f,marriages.airforce,available,80.2,80.2,medium,low,9,cloudflare,,,28/09/2026 18:09
+954ad715-4dcf-42f0-b672-d5d57c9932ba,unrestricted.airforce,available,83,83,high,low,12,spaceship,,,02/10/2026 18:09
 cae68452-d715-4592-a3f7-7e2ffc4e8083,joyously.airforce,available,109.98,134.98,high,low,8,namecheap,,,14/09/2026 21:30
 a01d0ade-873b-459c-9c9b-ba5a36ebfe4f,lazio.airforce,available,83,83,high,low,5,spaceship,,,30/09/2026 17:51
 a3fde5cf-26d1-43e5-ab5e-5b53a8468ff3,traded.airforce,available,103.99,103.99,medium,low,6,namesilo,,,02/10/2026 02:47
 8cc4953b-2de2-4cd6-8072-41050c3788b7,camwood.airforce,available,103.99,103.99,medium,low,7,namesilo,,,17/09/2026 15:22
-fe7e370d-23c8-4e66-81f4-c7e6aa99e043,administration.airforce,available,80.2,80.2,high,low,14,cloudflare,,,30/09/2026 08:00
+fe7e370d-23c8-4e66-81f4-c7e6aa99e043,administration.airforce,available,80.2,80.2,high,low,14,cloudflare,,,02/10/2026 12:30
 8f31c92e-1fa9-47c6-9a80-80115ba8f000,eponymous.airforce,available,103.99,103.99,high,low,9,namesilo,,,17/08/2026 11:29
 d03c69de-bf0c-4959-a452-d514c8a7b7c9,syringe.airforce,available,103.99,103.99,high,low,7,namesilo,,,30/09/2026 11:09
 7e13650c-6140-45af-be1b-22ad8e5c6e3d,contractors.airforce,available,109.98,134.98,high,low,11,namecheap,,,30/09/2026 07:30
-86ff6241-5e05-4c83-9a21-0d8b5b69a98c,women.airforce,premium,118.8,118.8,high,low,5,namesilo,,,25/09/2026 15:29
+86ff6241-5e05-4c83-9a21-0d8b5b69a98c,women.airforce,premium,102.67,102.67,high,low,5,spaceship,,,02/10/2026 14:19
 ee6bff97-77e5-4a51-b17f-a087da960ede,martyn.airforce,available,103.99,103.99,medium,low,6,namesilo,,,29/09/2026 09:11
 33774e0d-0d21-4ed9-8dc6-3c7fb162b950,mayflower.airforce,available,103.99,103.99,high,low,9,namesilo,,,30/09/2026 17:12
 d2c4d504-50e8-4300-aa46-2c109126e102,cordial.airforce,available,109.98,134.98,high,low,7,namecheap,,,21/09/2026 21:39
-dd50493f-0fee-4774-ba87-d79bb6619e82,selection.airforce,available,83,83,high,low,9,spaceship,,,28/09/2026 07:48
+dd50493f-0fee-4774-ba87-d79bb6619e82,selection.airforce,available,83,83,high,low,9,spaceship,,,02/10/2026 10:45
 1b178c93-5fdc-45de-8045-f3161fa81fca,overland.airforce,available,109.98,134.98,high,low,8,namecheap,,,04/09/2026 20:56
 f224290e-86cf-473d-badf-00dde719754d,lulu.airforce,available,103.99,103.99,high,low,4,namesilo,,,22/08/2026 16:47
 b3b966e7-14d6-4ff1-9d6d-8e172c16a5d4,wulfila.airforce,available,103.99,103.99,medium,low,7,namesilo,,,23/09/2026 21:57
 249cf862-dc6f-45bc-a334-2ebaf38828c3,restricted.airforce,available,83,83,high,low,10,spaceship,,,27/09/2026 13:02
 72af4929-026a-4926-83c6-93ace822e68e,conveyance.airforce,available,82.9,82.9,high,low,10,porkbun,,,01/10/2026 02:33
+62f692c6-4d25-4944-afee-0d81cafbd8c3,cypress.airforce,available,82.9,82.9,high,low,7,porkbun,,,02/10/2026 14:48
 610c8b32-97f3-4df9-8359-955b0db59687,apteryx.airforce,available,103.99,103.99,medium,low,7,namesilo,,,19/09/2026 22:37
 bed69174-d160-494d-8850-a138bce95983,bateman.airforce,available,83,83,medium,low,7,spaceship,,,30/09/2026 22:30
 56a2103a-d3a4-476b-96c5-30c30c3b4673,approaches.airforce,available,83,83,high,low,10,spaceship,,,01/10/2026 16:38
@@ -501,7 +536,7 @@ e1022359-7c87-41fa-bcb8-02dc9b9fcb7b,week.airforce,available,103.99,103.99,high,
 4e0b3c27-501a-488f-9338-fdfc0e559cfb,siamese.airforce,available,103.99,103.99,high,low,7,namesilo,,,10/09/2026 07:27
 fc326cf0-098d-4117-839b-1941ac3df409,treat.airforce,available,103.99,103.99,high,low,5,namesilo,,,24/09/2026 04:23
 13c1c88a-d758-4558-919a-c9b1a9bceae6,gorbachev.airforce,available,103.99,103.99,medium,low,9,namesilo,,,28/09/2026 05:51
-18ddb1b5-82a0-494c-9ec3-137644ee0246,ads.airforce,available,103.99,103.99,high,medium,3,namesilo,,,
+18ddb1b5-82a0-494c-9ec3-137644ee0246,ads.airforce,available,103.99,103.99,high,medium,3,namesilo,,,02/10/2026 13:41
 1a02bbdf-942d-496e-b872-b9c5e6882483,burnham.airforce,available,103.99,103.99,medium,low,7,namesilo,,,27/09/2026 03:24
 41bf504a-0b2f-46df-a645-a87ab8f95b91,pharmacist.airforce,available,82.9,82.9,high,low,10,porkbun,,,28/09/2026 21:46
 c944f683-cc4c-4d98-8762-da64b832f95b,idiocy.airforce,available,109.98,134.98,medium,low,6,namecheap,,,18/09/2026 18:58
@@ -513,6 +548,7 @@ ec4fcd24-aabb-41b6-8924-0c4dca11f5b3,malevolent.airforce,available,103.99,103.99
 87dd571a-1ef7-4558-852e-4a02282845ec,scheme.airforce,available,80.2,80.2,high,low,6,cloudflare,,,30/09/2026 10:40
 69dff806-925b-4692-aeda-e4fb0bb1c51d,rippled.airforce,available,103.99,103.99,medium,low,7,namesilo,,,13/08/2026 06:53
 0761d7f9-f8ae-4eba-9baa-38158c6fb9c3,rex.airforce,available,109.98,134.98,high,low,3,namecheap,,,27/09/2026 04:37
+01f0c9a5-4e44-4cca-8391-40536df697b4,mailman.airforce,available,80.2,80.2,high,low,7,cloudflare,,,02/10/2026 15:56
 7fd68964-6501-4d07-bb3c-1d4813b6d6e4,riots.airforce,available,85.82,85.82,low,low,5,dynadot,,,29/09/2026 05:50
 8718d24f-ae07-46fb-8429-6ede20e8f09d,dozy.airforce,available,109.98,134.98,medium,low,4,namecheap,,,14/08/2026 18:06
 df09f825-5a34-46d3-ba60-10263c8c8dcb,fundamentals.airforce,available,103.99,103.99,high,low,12,namesilo,,,17/09/2026 09:40
@@ -569,8 +605,8 @@ a6c3f99c-3a8e-4ba4-b5dd-48069ad5e48b,iraqi.airforce,available,103.99,103.99,high
 3749e07f-6a18-4026-b141-3ef6de5542d7,monologue.airforce,available,83,83,high,low,9,spaceship,,,30/09/2026 10:35
 754c027b-c195-475a-93c2-e6077e4e500f,assembly.airforce,available,103.99,103.99,high,low,8,namesilo,,,20/09/2026 16:09
 8607a21e-260f-4263-b193-8b922cc57e51,porter.airforce,available,83,83,high,low,6,spaceship,,,28/09/2026 01:41
+ea761381-60c8-4868-8f9b-934797d2ef73,ocala.airforce,available,80.2,80.2,high,low,5,cloudflare,,,02/10/2026 10:50
 33b1f7a4-fea4-451b-bdca-5846ef3aabce,vascular.airforce,available,103.99,103.99,medium,low,8,namesilo,,,13/09/2026 01:33
-41f648b8-fad0-46c8-ad10-b27cd491df31,crayola.airforce,available,,,high,medium,7,,,,
 df9bbd36-5720-474e-aa64-4012e84e30ac,lighterman.airforce,available,103.99,103.99,medium,low,10,namesilo,,,22/09/2026 05:46
 6637fff6-c2cf-457e-bb2f-37019eba105d,experiencing.airforce,available,85.82,85.82,high,low,12,dynadot,,,28/09/2026 13:20
 24ff75e9-95ea-4b5a-b223-d5023d26d421,alehouse.airforce,available,103.99,103.99,high,low,8,namesilo,,,18/09/2026 05:01
@@ -581,6 +617,7 @@ f46135d9-3f93-44b7-a00c-81c984e94c1d,charleston.airforce,premium,242,242,high,lo
 be10482e-c4fd-4992-bcf3-bdabd3b9ca64,pleasant.airforce,available,103.99,103.99,high,low,8,namesilo,,,27/09/2026 04:06
 59b3f7f2-3bda-42eb-be12-635730334b31,pip.airforce,available,103.99,103.99,high,low,3,namesilo,,,13/09/2026 13:22
 4597b901-e612-4947-95ae-18f1f8671d7f,smetana.airforce,available,103.99,103.99,medium,low,7,namesilo,,,22/09/2026 23:32
+841321cb-cc0e-4910-91fb-a32d83321886,walkway.airforce,available,83,83,high,low,7,spaceship,,,02/10/2026 16:20
 3d30137a-2d59-4b5e-ba71-ed5f3631622d,fadeout.airforce,available,103.99,103.99,medium,low,7,namesilo,,,09/09/2026 11:18
 3eda5c37-1e84-458a-9d7a-cdc105a8a0c2,synopsis.airforce,available,85.82,85.82,high,low,8,dynadot,,,01/10/2026 21:21
 ad7ff255-a577-48e6-a4bc-065143778553,helsinki.airforce,available,80.2,80.2,high,low,8,cloudflare,,,30/09/2026 16:35
@@ -600,11 +637,12 @@ f4babfef-9c3b-4f39-8f7e-585a45b027dc,brusque.airforce,available,103.99,103.99,me
 96bb489b-65c5-4a27-8f55-dd40fb9a5b12,clarity.airforce,available,103.99,103.99,high,medium,7,namesilo,,,29/09/2026 09:51
 7f6f08ca-2afe-4f29-a73e-c0c4ab962796,tucson.airforce,premium,207.2,207.2,medium,low,6,spaceship,,,29/09/2026 02:22
 76989f5f-93de-41a0-a6a4-4f492eba6a5c,asymmetry.airforce,available,109.98,134.98,medium,low,9,namecheap,,,20/09/2026 18:39
-0012b97e-10ff-4ebc-bd6b-b7d7cec9c4da,spontaneity.airforce,available,103.99,103.99,high,low,11,namesilo,,,
+0012b97e-10ff-4ebc-bd6b-b7d7cec9c4da,spontaneity.airforce,available,83,83,high,low,11,spaceship,,,02/10/2026 18:36
 2aaad4e2-8781-4e89-92d5-92b4fcfc9e17,holistic.airforce,available,103.99,103.99,high,low,8,namesilo,,,21/08/2026 10:30
 8963d9cd-25b6-4cc9-9455-a1db476fa424,rich.airforce,available,109.98,134.98,high,low,4,namecheap,,,19/09/2026 18:40
 21c33273-3275-4a49-8ff5-b3cbd4f9a5ea,carried.airforce,available,103.99,103.99,medium,low,7,namesilo,,,25/09/2026 17:00
 a679752b-7c8d-464b-82db-8e394ea5eda2,hindrance.airforce,available,103.99,103.99,medium,low,9,namesilo,,,14/08/2026 04:50
+43f3a537-139c-4235-bc67-9f6a677aac8d,mbit.airforce,available,103.99,103.99,medium,low,4,namesilo,,,02/10/2026 05:49
 27ada766-1a12-45ce-927d-c24b3bd6a688,canceled.airforce,available,103.99,103.99,medium,low,8,namesilo,,,27/09/2026 22:41
 a3b793d7-3a75-4db2-b4db-e1bce6795568,irving.airforce,available,103.99,103.99,medium,low,6,namesilo,,,25/09/2026 07:50
 f1d056fe-8bc9-459e-8f62-e17e32b0520a,bestowal.airforce,available,149.99,149.99,medium,low,8,name.com,,,23/09/2026 10:39
@@ -614,6 +652,7 @@ f1d056fe-8bc9-459e-8f62-e17e32b0520a,bestowal.airforce,available,149.99,149.99,m
 248e3469-e579-4d34-a921-b4b53e3d1210,guild.airforce,available,83,83,high,low,5,spaceship,,,29/09/2026 01:05
 2c9ee848-3938-48c3-9c45-f6d2a90dbcc6,bonney.airforce,available,109.98,134.98,medium,low,6,namecheap,,,23/09/2026 16:28
 94200fa8-c940-4b1f-bc25-cd94eeae4684,unanimous.airforce,available,103.99,103.99,high,low,9,namesilo,,,12/08/2026 22:33
+eaa0af72-afc6-4cf1-9c28-b10d5a3fc6b3,speck.airforce,available,103.99,103.99,medium,low,5,namesilo,,,02/10/2026 14:45
 f644c8f3-257e-4961-a514-2a06c5fe85ea,legacy.airforce,available,103.99,103.99,high,medium,6,namesilo,,,23/09/2026 09:05
 9100dab3-9f38-46d0-8ae3-8331fa6dc26d,reeves.airforce,available,82.9,82.9,high,low,6,porkbun,,,29/09/2026 09:55
 55d70f41-3065-45ed-a61c-a299c7b0a5b1,complementary.airforce,available,80.2,80.2,medium,low,13,cloudflare,,,01/10/2026 05:07
@@ -635,6 +674,7 @@ d0e8631c-5b5e-4133-934e-fe888b05b4f4,babel.airforce,available,109.98,134.98,high
 744c78d5-a1a1-4740-bd9b-37cfc3236cea,campfire.airforce,available,103.99,103.99,high,low,8,namesilo,,,24/09/2026 11:54
 ffc4cd68-6673-484b-9c82-b38f6cd917d0,jukebox.airforce,available,83,83,high,low,7,spaceship,,,30/09/2026 10:20
 7fdbb9c5-2139-44bf-a578-37d3822084b0,leila.airforce,available,83,83,high,low,5,spaceship,,,29/09/2026 17:56
+5344338e-0050-4999-93eb-860542f474b2,contraception.airforce,available,103.99,103.99,medium,low,13,namesilo,,,02/10/2026 21:47
 1cc84da5-77b4-4683-aa38-0e044b88e01e,immense.airforce,available,109.98,134.98,high,low,7,namecheap,,,25/09/2026 06:12
 88c2fba5-d171-44a5-9550-3f9587a2e29e,flaming.airforce,available,103.99,103.99,high,low,7,namesilo,,,18/08/2026 06:30
 9c6ad9a5-4d4c-4952-8009-fcbed060322a,bluntly.airforce,available,103.99,103.99,medium,low,7,namesilo,,,14/09/2026 00:39
@@ -680,6 +720,7 @@ e94ab04d-4e0f-4cd1-b332-e02a318b199f,cluster.airforce,available,103.99,103.99,hi
 4f5a9704-04e8-4647-9a05-4755c3bccd01,sale.airforce,available,103.99,103.99,high,low,4,namesilo,,,29/09/2026 13:09
 a7ecf7ca-1182-4ed3-adb7-2b713c0dc317,ardisia.airforce,available,109.98,134.98,medium,low,7,namecheap,,,20/09/2026 03:10
 c17c6596-f0a3-4826-8ac9-2698367d094a,cottages.airforce,available,83,83,medium,low,8,spaceship,,,02/10/2026 02:58
+d20457e9-a6d0-44ab-971f-d187c710918f,hurst.airforce,available,80.2,80.2,medium,low,5,cloudflare,,,02/10/2026 17:30
 66cc2f4e-76b8-4f6f-9eb5-068052a0fceb,customise.airforce,available,83,83,high,low,9,spaceship,,,30/09/2026 18:12
 ef1f2f44-78d7-442f-a89a-6371427f745d,heathrow.airforce,available,103.99,103.99,high,low,8,namesilo,,,01/10/2026 09:24
 34aa8766-e04a-4dfd-8541-6731b4081a65,elevate.airforce,available,85.82,85.82,high,medium,7,dynadot,,,30/09/2026 10:25
@@ -687,6 +728,7 @@ de3041de-e009-4f70-9b75-4814f9f0c7c7,monaghan.airforce,available,83,83,medium,lo
 45bef6d7-c5c7-4cd6-8149-a68c9bddb9e7,quintet.airforce,available,103.99,103.99,high,low,7,namesilo,,,
 1b1dbab9-7563-421b-9cc7-9484b0d8eb8d,thinkers.airforce,available,103.99,103.99,medium,low,8,namesilo,,,30/09/2026 16:03
 6b6a7c20-dc44-49a0-bd71-3c4abf490887,jailed.airforce,available,103.99,103.99,medium,low,6,namesilo,,,19/09/2026 04:16
+32ef7f88-b115-49d8-816a-6b9e68a9dbd4,rpm.airforce,available,109.98,134.98,high,low,3,namecheap,,,02/10/2026 06:15
 9a661f2a-5283-411b-9947-4e4924a6e59f,seymour.airforce,available,103.99,103.99,high,low,7,namesilo,,,25/09/2026 07:56
 0ae7eb78-9305-4223-90d8-0a497a860b8d,know.airforce,available,83,83,high,low,4,spaceship,,,29/09/2026 20:04
 91174c55-5343-488f-81f9-b5f693ec8405,suave.airforce,available,149.99,149.99,high,low,5,name.com,,,13/08/2026 20:48
@@ -704,6 +746,7 @@ bd390a90-8f38-4b29-a84f-cd5a011c04d8,orthodox.airforce,available,103.99,103.99,h
 2a2ed4dd-dd1c-48f4-9abb-0f737ce21e3c,augmentin.airforce,available,103.99,103.99,medium,low,9,namesilo,,,18/09/2026 22:59
 d0ac5182-e9ff-409f-a50a-82e042f79ec3,hostility.airforce,available,103.99,103.99,medium,low,9,namesilo,,,19/09/2026 12:25
 d483cc77-06e2-491b-9b7b-2cb701374c55,loftily.airforce,available,103.99,103.99,medium,low,7,namesilo,,,15/09/2026 12:38
+b781dc1b-c6bd-4bd3-88bb-f2bb7f1a1140,prospero.airforce,available,80.2,80.2,high,low,8,cloudflare,,,02/10/2026 10:04
 1a355ae5-a6d5-4821-bbd6-f2c67502b4ee,themself.airforce,available,103.99,103.99,medium,low,8,namesilo,,,
 469a4753-4fe7-4b3d-954d-81dc4218db8b,rocks.airforce,available,103.99,103.99,high,low,5,namesilo,,,17/09/2026 07:43
 15bac0a2-9ed5-4fef-9ddb-7b65f79aa8c3,alienism.airforce,available,103.99,103.99,medium,low,8,namesilo,,,18/09/2026 07:34
@@ -721,6 +764,8 @@ f209cba5-e9f3-4683-9627-17885be3f466,bassett.airforce,available,109.98,134.98,hi
 a1d49436-a74d-4629-ae20-4a3598206e47,randoms.airforce,available,109.98,134.98,low,low,7,namecheap,,,19/09/2026 22:13
 c19ce713-96e8-49d0-a62e-f779fd712ce3,dilate.airforce,available,103.99,103.99,medium,low,6,namesilo,,,16/08/2026 00:39
 945c9934-7617-45a2-af05-2d40299af30d,pittsburg.airforce,available,83,83,medium,low,9,spaceship,,,28/09/2026 16:44
+1908062d-9bd7-4c8c-9055-8348f32dd9a8,dodger.airforce,available,80.2,80.2,high,low,6,cloudflare,,,03/10/2026 00:12
+41af2f7f-9320-4388-a867-4f8141b8f6dc,snag.airforce,available,103.99,103.99,high,low,4,namesilo,,,02/10/2026 06:18
 df34740b-7063-445d-835c-9472e5b43c5f,formosa.airforce,available,83,83,high,low,7,spaceship,,,28/09/2026 05:46
 e505938c-cdd7-46ed-b635-b18939dd08cb,plays.airforce,available,149.99,149.99,medium,low,5,name.com,,,18/09/2026 05:50
 ab80fbdb-6259-4f60-938f-dfac4b05d180,brag.airforce,available,149.99,149.99,high,low,4,name.com,,,23/09/2026 00:49
@@ -734,21 +779,24 @@ b38795a2-5550-4c52-99d9-097266c6cc0e,kindled.airforce,available,103.99,103.99,me
 fc3a0ce5-236f-4fa3-8869-57980473ba90,attend.airforce,available,109.98,134.98,high,low,6,namecheap,,,28/09/2026 19:00
 fb757dc8-4892-4a15-aa49-65b6ac43fe5d,prototype.airforce,available,83,83,high,low,9,spaceship,,,28/09/2026 14:03
 de26108a-e451-4920-b9eb-3f9c0eeefc69,sandfish.airforce,available,103.99,103.99,medium,low,8,namesilo,,,22/09/2026 19:42
+6dedff27-2293-4d24-9be1-fac36d5cfebd,whitehall.airforce,available,82.9,82.9,high,low,9,porkbun,,,02/10/2026 17:09
 3d87d687-a245-4a73-b98b-36d0348dc2d9,misguided.airforce,available,109.98,134.98,medium,low,9,namecheap,,,21/08/2026 18:57
 104f18ce-192b-42a1-8eab-b29ef6b60d39,payton.airforce,available,80.2,80.2,medium,low,6,cloudflare,,,30/09/2026 07:49
 040a52f5-e021-47a9-8634-fac8c44b5a69,continent.airforce,available,103.99,103.99,high,low,9,namesilo,,,11/08/2026 23:26
 ae5956af-5a07-4c16-905b-b260c42f2d32,purchased.airforce,available,83,83,low,low,9,spaceship,,,28/09/2026 17:30
 404e927a-938f-4d56-8f77-3eed2d7b6c4e,nazi.airforce,available,103.99,103.99,medium,low,4,namesilo,,,03/09/2026 13:40
 51c4a3d0-b1d6-417b-b6de-e8879550b52b,bean.airforce,available,83,83,high,low,4,spaceship,,,29/09/2026 01:40
+f42ada84-7dc7-426f-9741-ef0fa33df417,penance.airforce,available,103.99,103.99,high,low,7,namesilo,,,02/10/2026 06:03
 710fbce6-824e-493a-b760-6012a63c55e4,fern.airforce,available,83,83,high,low,4,spaceship,,,29/09/2026 00:53
 e96b3ae6-c2e5-4bd2-bac5-b14753e716ab,survival.airforce,premium,78.54,78.54,high,low,8,namesilo,,,27/09/2026 14:56
-87831281-3492-414b-9c18-16a724e3902c,turnabout.airforce,available,103.99,103.99,medium,low,10,namesilo,,,
+87831281-3492-414b-9c18-16a724e3902c,turnabout.airforce,available,80.2,80.2,medium,low,10,cloudflare,,,02/10/2026 18:00
 d2295cb6-fb6e-4cfa-a86c-61636f255702,chelonian.airforce,available,103.99,103.99,low,low,9,namesilo,,,12/08/2026 04:08
 180bb980-1de0-4a4d-831a-a486ae2e2b20,theoretically.airforce,available,83,83,low,low,13,spaceship,,,28/09/2026 17:35
 9895d489-4d4a-460b-b5e8-26613a561637,pestering.airforce,available,103.99,103.99,medium,low,9,namesilo,,,
 d00c1733-3eeb-4154-8395-5c7f01b9ec81,allowed.airforce,available,83,83,high,low,7,spaceship,,,01/10/2026 19:03
 1d789c18-9be7-48f9-b41f-9b8b0b4bc93c,constitute.airforce,available,103.99,103.99,high,low,10,namesilo,,,29/09/2026 13:09
 e454c273-a3fd-450a-86ed-8b47ce84c53f,reticular.airforce,available,103.99,103.99,medium,low,9,namesilo,,,09/09/2026 15:34
+33933de9-516d-4ced-afae-e725468eb5bf,sonata.airforce,available,85.82,85.82,high,low,6,dynadot,,,03/10/2026 02:09
 64f8626f-ab19-429a-8d8a-9693cd601309,hagerstown.airforce,available,80.2,80.2,medium,low,10,cloudflare,,,29/09/2026 19:06
 0c956ddc-50f6-40d0-afcb-b56a32c87093,smashed.airforce,available,103.99,103.99,medium,low,7,namesilo,,,09/08/2026 15:50
 ed0e6771-6002-4a5e-b172-fb6f4702f521,leech.airforce,available,103.99,103.99,medium,low,5,namesilo,,,24/09/2026 06:16
@@ -765,10 +813,11 @@ d1410c9e-d740-4141-a36b-f5ec717aa5ab,pixilated.airforce,available,103.99,103.99,
 20f078af-7856-469a-b668-2810d492be52,unaccented.airforce,available,103.99,103.99,medium,low,10,namesilo,,,11/09/2026 23:32
 ff8d7b68-25fa-4d91-8b9b-a5c7bab2229b,asperity.airforce,available,103.99,103.99,medium,low,8,namesilo,,,20/09/2026 14:51
 1af3fce8-a94e-4fe7-a98a-70948224dc63,dylan.airforce,available,103.99,103.99,high,low,5,namesilo,,,25/09/2026 00:22
+f058c124-7842-43d7-820e-9e7a65235d40,turkeys.airforce,available,103.99,103.99,medium,low,7,namesilo,,,02/10/2026 12:41
 1d2d7279-2745-4908-a6af-a137d89a10a0,adjust.airforce,available,109.98,134.98,high,low,6,namecheap,,,28/09/2026 11:09
 f9f0907f-4b77-4e5f-92ed-edca11918c53,balk.airforce,available,103.99,103.99,medium,low,4,namesilo,,,14/08/2026 04:55
 cb393d92-ce47-4aae-aec1-6cc6cc7ea902,jugular.airforce,available,103.99,103.99,medium,low,7,namesilo,,,22/08/2026 14:16
-2299cb17-f8f8-4486-8d95-6672b6420e10,treating.airforce,available,83,83,medium,low,8,spaceship,,,28/09/2026 08:47
+2299cb17-f8f8-4486-8d95-6672b6420e10,treating.airforce,available,85.82,85.82,high,low,8,dynadot,,,02/10/2026 12:52
 35230862-979d-48eb-9abf-cd9dd0ee32d2,edited.airforce,available,103.99,103.99,high,low,6,namesilo,,,15/08/2026 11:05
 df4f01d5-d705-4867-8beb-291c4b59f58d,robin.airforce,available,80.2,80.2,high,low,5,cloudflare,,,28/09/2026 21:00
 73883fad-f012-48c1-abf8-407dfd9b7edf,boxer.airforce,available,103.99,103.99,high,low,5,namesilo,,,01/10/2026 02:29
@@ -784,6 +833,7 @@ a3078d78-dc90-4174-86a5-80c2fbe0a34f,advances.airforce,available,83,83,medium,lo
 1f5af97f-fa59-470e-b501-533f044f591e,assayer.airforce,available,109.98,134.98,medium,low,7,namecheap,,,20/09/2026 15:59
 d7c4c40b-f767-437b-bffd-69f8e11dd4bd,races.airforce,available,103.99,103.99,medium,low,5,namesilo,,,19/09/2026 00:33
 643768ee-8b41-42ab-8b3c-27351855a5ce,cupidity.airforce,available,103.99,103.99,medium,low,8,namesilo,,,21/09/2026 08:48
+6b824e97-acac-4ee4-b2f2-47fbd7f2f898,citadel.airforce,available,83,83,high,medium,7,spaceship,,,03/10/2026 00:03
 75d7a963-92a8-4247-8a24-da881f243e02,marcellus.airforce,available,103.99,103.99,medium,low,9,namesilo,,,29/09/2026 15:33
 93e359f9-96e0-48af-81d8-a8e7a4406a98,katabatic.airforce,available,103.99,103.99,medium,low,9,namesilo,,,11/08/2026 20:41
 6f798dbf-cd1a-43d1-a239-0b4a597af841,stepping.airforce,available,103.99,103.99,high,low,8,namesilo,,,16/09/2026 15:33
@@ -793,9 +843,11 @@ bd35f59c-6649-4959-bc39-5204e0910d3d,golf.airforce,available,85.82,85.82,high,me
 0b6969db-90c1-44ec-9b96-6b346952de08,starters.airforce,available,103.99,103.99,medium,low,8,namesilo,,,29/09/2026 05:59
 f18bf62f-f28b-483a-924d-90ef8cc3162f,maunder.airforce,available,103.99,103.99,medium,low,7,namesilo,,,23/09/2026 23:31
 d7d35e7d-dcde-4dcf-955a-8f9316abbec4,allotted.airforce,available,103.99,103.99,high,low,8,namesilo,,,
+91648b37-5087-40db-8708-47034e8ca727,theron.airforce,available,83,83,medium,low,6,spaceship,,,02/10/2026 10:23
 aa2e1266-234e-4d29-8cc0-bdbee20c2338,fluid.airforce,available,103.99,103.99,high,low,5,namesilo,,,18/08/2026 09:14
 e72dbcd1-cc46-436a-a949-eee9931958b0,rises.airforce,available,83,83,low,low,5,spaceship,,,28/09/2026 13:01
 b09c4224-d94d-40a5-aad3-da76157b545a,vitalizing.airforce,available,103.99,103.99,medium,low,10,namesilo,,,23/08/2026 01:35
+de62a6a0-f9b5-4e54-89c6-362063f2e625,riverton.airforce,available,83,83,medium,low,8,spaceship,,,02/10/2026 20:22
 ec46096c-cc39-4a34-b727-5cea302d9b8b,mandela.airforce,available,103.99,103.99,high,low,7,namesilo,,,28/09/2026 14:49
 5fe538a4-5bdb-41da-b482-11bcc959ab18,scare.airforce,available,103.99,103.99,high,low,5,namesilo,,,17/09/2026 14:51
 324d9ab9-126b-40fd-be00-67a1d406c657,unbent.airforce,available,103.99,103.99,medium,low,6,namesilo,,,12/09/2026 01:50
@@ -808,6 +860,7 @@ c3cc3c40-b4d2-419d-a13c-9bcb62ab95cb,trieste.airforce,available,83,83,medium,low
 aa6b9b4b-d0c6-4804-8382-2adf035db6bd,kari.airforce,available,80.2,80.2,medium,low,4,cloudflare,,,30/09/2026 13:17
 798bce71-087c-486b-95bd-8d17846cbe66,sensationally.airforce,available,85.82,85.82,medium,low,13,dynadot,,,02/10/2026 00:06
 035d2de9-688f-4805-ba9f-0c3f29690917,snotty.airforce,available,103.99,103.99,medium,low,6,namesilo,,,09/08/2026 20:42
+1cf7ed80-926b-4b69-9c1d-bf383f926688,legume.airforce,available,103.99,103.99,high,low,6,namesilo,,,03/10/2026 01:28
 e7f0bf66-afbc-49a0-950c-32e88b24dddb,alienable.airforce,available,103.99,103.99,medium,low,9,namesilo,,,
 7050adec-c6a2-4b7b-a237-1315ca651b98,publishing.airforce,available,103.99,103.99,high,low,10,namesilo,,,28/09/2026 06:38
 ac122ddd-6e03-4dbb-bf1c-6753b1d61099,flaccid.airforce,available,103.99,103.99,medium,low,7,namesilo,,,18/08/2026 06:07
@@ -830,9 +883,9 @@ f052630f-0516-4b65-ae29-5ec0959d5b31,whimsical.airforce,available,103.99,103.99,
 da22587b-0feb-44f9-b673-0671f5f86cb4,showroom.airforce,available,83,83,high,low,8,spaceship,,,30/09/2026 02:32
 1ffdb1c1-55f0-4602-ad3d-24ef727ec19b,marina.airforce,available,109.98,134.98,high,low,6,namecheap,,,29/09/2026 07:32
 7fed7056-405c-4c82-bcb0-b7cc07d86f5c,sensually.airforce,available,103.99,103.99,medium,low,9,namesilo,,,16/09/2026 00:58
-e496d6d1-ddaf-4e33-80e9-35b58f66c453,art.airforce,available,80.2,80.2,high,medium,3,cloudflare,,,01/10/2026 12:42
+e496d6d1-ddaf-4e33-80e9-35b58f66c453,art.airforce,available,103.99,103.99,high,medium,3,namesilo,,,03/10/2026 02:54
 2c4ee57f-337d-4075-b85d-f513b7f5b9d6,fowl.airforce,available,82.9,82.9,high,low,4,porkbun,,,30/09/2026 17:01
-c7a00c6a-b6d4-4723-a650-d98a208a2933,technical.airforce,available,103.99,103.99,high,low,9,namesilo,,,28/09/2026 08:48
+c7a00c6a-b6d4-4723-a650-d98a208a2933,technical.airforce,available,103.99,103.99,high,low,9,namesilo,,,02/10/2026 12:55
 ab3a3e22-d040-4419-895b-dea0e7323743,camacho.airforce,available,103.99,103.99,high,low,7,namesilo,,,01/10/2026 10:54
 8d9999da-7d99-4820-952a-4a5fcca935e4,austral.airforce,available,103.99,103.99,medium,low,7,namesilo,,,07/08/2026 18:26
 2b908745-7119-4678-85eb-de59a3e993fa,quaggy.airforce,available,103.99,103.99,medium,low,6,namesilo,,,10/08/2026 17:10
@@ -843,7 +896,9 @@ ab3a3e22-d040-4419-895b-dea0e7323743,camacho.airforce,available,103.99,103.99,hi
 10b809d5-bdd6-476a-8761-bbdf403e6a53,beldam.airforce,available,103.99,103.99,medium,low,6,namesilo,,,23/09/2026 04:45
 ff107dc9-0615-4963-a159-1c6ab1427688,observance.airforce,available,103.99,103.99,high,low,10,namesilo,,,12/08/2026 00:35
 739d3d06-4938-49dc-93ed-8d03c4fe2c17,anova.airforce,available,103.99,103.99,high,low,5,namesilo,,,19/09/2026 01:59
+0e099fc6-98d1-4ccb-9ef0-5b9b7fd5c7ae,mcp.airforce,available,103.99,103.99,high,medium,3,namesilo,,,02/10/2026 07:29
 3a724b09-4c8b-4c59-9d28-7d86082e1244,center.airforce,available,83,83,high,low,6,spaceship,,,30/09/2026 13:21
+a92c0574-f58c-407e-aa3c-058a3ff9d18f,zanesville.airforce,premium,,,medium,low,10,,,,02/10/2026 10:06
 e6508ee3-f0d7-4203-947b-f5760be0bd3f,kernel.airforce,available,103.99,103.99,high,low,6,namesilo,,,14/09/2026 23:39
 4710f010-54dc-4e08-81e1-f506cdfeb861,fields.airforce,available,103.99,103.99,high,low,6,namesilo,,,25/09/2026 22:46
 1bcee878-c0cd-4d6d-b945-ca37ebf1c93a,rennes.airforce,available,83,83,high,low,6,spaceship,,,30/09/2026 04:34
@@ -859,6 +914,7 @@ fc75bbb1-35ae-4197-82fc-5110a178b36f,vernal.airforce,available,103.99,103.99,med
 8e1494e0-1dd2-48f7-a41f-c0bc554aa81d,augeas.airforce,available,103.99,103.99,medium,low,6,namesilo,,,21/09/2026 03:15
 d1f16469-789b-4a2b-9da7-a79b7a0877d1,hot.airforce,premium,78.54,78.54,high,medium,3,namesilo,,,19/09/2026 15:25
 81c90b57-2e94-457f-8cb8-1f64af8eeadd,trench.airforce,available,83,83,medium,low,6,spaceship,,,28/09/2026 20:01
+aa655895-471d-4888-bad3-c1ee4ccab2cd,dupree.airforce,available,109.98,134.98,medium,low,6,namecheap,,,02/10/2026 10:30
 1afe430f-6547-40ea-b42a-b9cb2f30c924,dar.airforce,available,83,83,high,low,3,spaceship,,,29/09/2026 20:47
 8152e31c-9ff8-4aad-ad64-972797e5164e,buddha.airforce,available,103.99,103.99,high,low,6,namesilo,,,28/09/2026 05:20
 8e03c690-309c-4712-be50-ed61402b81f3,hangs.airforce,available,83,83,low,low,5,spaceship,,,28/09/2026 08:56
@@ -876,6 +932,7 @@ e03adb94-b892-4248-a6e4-01e3e05c19d7,lav.airforce,available,103.99,103.99,high,l
 3a142267-2b66-4f60-93b7-29795fa68831,browne.airforce,available,103.99,103.99,high,low,6,namesilo,,,20/09/2026 10:27
 e8b33f1d-47aa-4d45-95bb-0c84109a99f8,affirmations.airforce,available,103.99,103.99,medium,low,12,namesilo,,,21/09/2026 01:56
 471df566-02f4-470f-825a-22c2f5785ec8,annette.airforce,available,103.99,103.99,medium,low,7,namesilo,,,28/09/2026 04:47
+437bce19-4647-4d9e-a9a3-dd3f93de4067,genome.airforce,available,83,83,high,low,6,spaceship,,,02/10/2026 15:28
 c096ad4d-2819-4a2b-807e-1c9f2acf7868,wilder.airforce,available,109.98,134.98,high,low,6,namecheap,,,23/09/2026 16:50
 83328d47-b95f-44f9-9662-46cfa9b09a50,joining.airforce,available,103.99,103.99,high,low,7,namesilo,,,25/09/2026 23:20
 58135c90-a0f4-4c88-a5e6-7adbb51083de,kerry.airforce,available,103.99,103.99,high,low,5,namesilo,,,28/09/2026 03:22
@@ -898,6 +955,7 @@ f64d9e10-ab18-4780-8a7b-b375aeb55204,saloons.airforce,available,109.98,134.98,me
 996f2eec-e342-40e7-ac3f-db40a133bd8c,herewith.airforce,available,103.99,103.99,medium,low,8,namesilo,,,15/09/2026 00:27
 3a5c500a-b47b-467e-b128-6e8dc00cb331,bivalvia.airforce,available,103.99,103.99,medium,low,8,namesilo,,,23/09/2026 23:16
 7cb3d73c-3d00-4b01-856a-6919ddcb7f30,potassium.airforce,available,103.99,103.99,high,low,9,namesilo,,,20/09/2026 22:30
+e859c4c0-e9f0-403f-b0e0-25fbe28ac6e4,ostrich.airforce,available,103.99,103.99,high,low,7,namesilo,,,02/10/2026 16:16
 be3da261-d8e9-49cc-b0ce-f2adf388ae17,manu.airforce,available,83,83,high,low,4,spaceship,,,28/09/2026 11:11
 8d94d4ca-517a-4fa9-9d06-1020d1a9710a,chequered.airforce,available,103.99,103.99,medium,low,9,namesilo,,,12/08/2026 03:40
 e8bc7b42-6d9d-4558-ad2e-d327b5a71c46,negotiate.airforce,available,109.98,134.98,high,low,9,namecheap,,,30/09/2026 20:35
@@ -941,61 +999,3 @@ c0ff320c-8a38-4efd-918b-ee4ed4484a68,watersheds.airforce,available,82.9,82.9,low
 2fcb35e9-601a-42b0-8247-bebb20afe893,empirical.airforce,available,103.99,103.99,high,low,9,namesilo,,,16/08/2026 18:21
 e3ced481-27b9-4ab3-8bb2-148feb7d2ebd,reborn.airforce,available,109.98,134.98,high,low,6,namecheap,,,10/08/2026 20:11
 940e8548-5ff5-49a0-b09b-3a2c661acbd6,disturb.airforce,available,80.2,80.2,high,low,7,cloudflare,,,30/09/2026 14:01
-b278590d-2827-433b-a6e9-9cad0d464485,beauty.airforce,available,83,83,high,medium,6,spaceship,,,02/10/2026 00:15
-edce60ae-2163-4de8-93c5-3b0e6faefb3c,florio.airforce,available,80.2,80.2,high,low,6,cloudflare,,,01/10/2026 19:36
-f5b8be86-54b5-47ba-9281-38f7ba4cb44b,hopkins.airforce,available,103.99,103.99,high,low,7,namesilo,,,19/09/2026 13:42
-3782e07d-4abe-4c7e-8e88-787772c38c59,stripes.airforce,available,103.99,103.99,high,low,7,namesilo,,,24/09/2026 14:23
-989580ee-7a86-4188-b8c5-94178b9e856a,acinus.airforce,available,103.99,103.99,medium,low,6,namesilo,,,17/09/2026 01:46
-623a0715-ee60-45c4-95be-0e61f81474b1,describing.airforce,available,103.99,103.99,low,low,10,namesilo,,,29/09/2026 04:44
-b76b8eea-f74c-4b10-9259-fa05d5de6648,characteristic.airforce,available,134.98,,high,low,14,namecheap,,,
-5215176e-0e5a-4c09-bf1f-3702a04464db,fizzing.airforce,available,103.99,103.99,medium,low,7,namesilo,,,18/08/2026 06:02
-3c68d362-eb28-47b4-bc82-40022fd44e7e,believing.airforce,available,103.99,103.99,high,low,9,namesilo,,,23/09/2026 05:15
-b782bc71-5fe7-4311-9538-1d2f9a8a6db0,extract.airforce,available,103.99,103.99,high,low,7,namesilo,,,28/09/2026 14:05
-93b741a8-3eb0-40e0-b802-eb62b7d13733,clowns.airforce,available,83,83,medium,low,6,spaceship,,,30/09/2026 07:41
-5162ebf9-f126-48d4-ad85-24a848096f19,etiolate.airforce,available,103.99,103.99,medium,low,8,namesilo,,,17/08/2026 13:53
-880afbf2-b268-4d34-a390-99ec5a69d9cb,colonised.airforce,available,103.99,103.99,medium,low,9,namesilo,,,12/08/2026 17:25
-7c1272b4-b149-4581-b65c-3c454af1796d,unlawful.airforce,available,109.98,134.98,medium,low,8,namecheap,,,21/08/2026 19:54
-596890f8-4937-4fba-9edb-74de4717e352,telling.airforce,available,103.99,103.99,high,low,7,namesilo,,,12/08/2026 15:35
-31b026c4-7932-43aa-b0a5-c480eb3ed8ed,yid.airforce,available,103.99,103.99,medium,low,3,namesilo,,,19/09/2026 16:18
-e5eba5e9-6de8-4991-b3dc-01504729e966,communicate.airforce,available,103.99,103.99,high,low,11,namesilo,,,01/10/2026 02:22
-fcd77696-9744-4aae-80b0-b8989a588706,aesthete.airforce,available,103.99,103.99,medium,low,8,namesilo,,,17/09/2026 13:35
-50476f8a-1ccc-4fa5-92e0-541e15af8783,lotion.airforce,available,83,83,high,low,6,spaceship,,,01/10/2026 02:55
-641de55c-48b8-4cca-8c62-261945e4d861,marne.airforce,available,103.99,103.99,high,low,5,namesilo,,,29/09/2026 15:38
-3b32901e-9a49-4060-8b38-b5bfc3bd5e4e,samarium.airforce,available,103.99,103.99,medium,low,8,namesilo,,,20/09/2026 23:24
-015a9893-6edd-4939-8ace-feb9eae7a994,nude.airforce,available,103.99,103.99,high,low,4,namesilo,,,07/08/2026 16:15
-5497c77a-ee4d-46de-8a42-d7415c85f863,leeds.airforce,available,103.99,103.99,high,low,5,namesilo,,,29/09/2026 13:17
-9fa817cb-f20d-46d9-a06a-8747bfa6d0a9,arda.airforce,available,109.98,134.98,high,low,4,namecheap,,,17/09/2026 10:27
-6f63b01c-9547-4454-8289-cf3d63ba0b57,chemotherapy.airforce,available,109.98,134.98,medium,low,12,namecheap,,,29/09/2026 16:06
-82af15f5-9b8c-46fa-875f-cbff75717b6e,tracking.airforce,available,85.82,85.82,high,low,8,dynadot,,,30/09/2026 13:26
-1da9bf5a-8f2e-4202-877c-636470e86eff,nest.airforce,available,80.2,80.2,high,medium,4,cloudflare,,,29/09/2026 13:00
-7bfdd254-6bb3-4b6a-b9ee-09f674aab8c1,psychic.airforce,available,103.99,103.99,high,low,7,namesilo,,,27/09/2026 07:57
-579124a4-f224-4131-8d3c-58e8f7ea637d,arctangent.airforce,available,103.99,103.99,medium,low,10,namesilo,,,20/09/2026 01:30
-27bd4920-632b-4977-8d02-dcfab803582f,vaunt.airforce,available,103.99,103.99,medium,low,5,namesilo,,,11/08/2026 01:09
-dfa93a6e-5865-4933-b097-3fc68303eec6,spontaneous.airforce,available,109.98,134.98,high,low,11,namecheap,,,01/10/2026 03:21
-0400bef3-4137-4ef7-9cd6-df5ca76d5618,wild.airforce,available,103.99,103.99,high,medium,4,namesilo,,,22/09/2026 17:18
-0d9252e7-4698-421f-b5d3-29fc4aa84faf,sidesaddle.airforce,available,103.99,103.99,medium,low,10,namesilo,,,16/09/2026 01:43
-b4c9689f-e1b9-4085-b00d-518fc916922e,concordant.airforce,available,109.98,134.98,medium,low,10,namecheap,,,12/08/2026 20:16
-6abea768-f680-4c59-8e93-f7a509a8ea66,convenient.airforce,available,103.99,103.99,high,low,10,namesilo,,,23/09/2026 15:48
-4a1ae750-8af8-44ed-8709-c6dbbe46fbf1,gatt.airforce,available,103.99,103.99,medium,low,4,namesilo,,,30/09/2026 09:53
-0b923d84-58eb-4cf8-9634-d90ccae88b72,cement.airforce,available,80.2,80.2,high,low,6,cloudflare,,,29/09/2026 07:46
-eb9bf4c1-4c41-4347-af7d-07da80614a44,macaulay.airforce,available,80.2,80.2,medium,low,8,cloudflare,,,28/09/2026 14:12
-67cb3872-286d-4c60-9957-3fe83e9a64ea,inherent.airforce,available,103.99,103.99,high,low,8,namesilo,,,23/09/2026 10:30
-c6bc5c0d-31ca-4816-909b-ac767e137c6c,sterile.airforce,available,103.99,103.99,high,low,7,namesilo,,,22/09/2026 09:35
-596411ff-b78e-4088-a62d-90087621b843,broadloom.airforce,available,103.99,103.99,medium,low,9,namesilo,,,11/08/2026 04:59
-913fc6f8-36a0-4ed7-836e-625282022ad7,jazz.airforce,available,83,83,high,low,4,spaceship,,,29/09/2026 20:07
-d1eacc2a-2c14-40b1-b30f-7fc51c0df9ac,sports.airforce,available,83,83,high,medium,6,spaceship,,,01/10/2026 19:07
-8f4fe1be-0d3f-460f-ae8b-b34be5cbc976,isobel.airforce,available,80.2,80.2,high,low,6,cloudflare,,,01/10/2026 08:56
-c8d66ab7-6e50-4fb8-86cd-b651ac0c655b,launch.airforce,premium,828.2,828.2,high,medium,6,spaceship,,,30/09/2026 04:29
-36c494e0-56d2-497a-a5dc-6060cbf59589,artistic.airforce,available,109.98,134.98,high,low,8,namecheap,,,29/09/2026 09:12
-c22031e7-90e5-477b-9b65-b8f67ee421f5,alabama.airforce,premium,207.2,207.2,high,low,7,spaceship,,,28/09/2026 20:00
-4938a37c-d3e1-4593-9d22-08674a028fce,mammals.airforce,available,80.2,80.2,medium,low,7,cloudflare,,,30/09/2026 06:09
-caf36940-bd35-4622-8e01-844f7a4d0f77,circulate.airforce,available,83,83,high,low,9,spaceship,,,01/10/2026 04:10
-c5762ee7-bdcf-4124-9f4c-66fc84d6e51c,fraught.airforce,available,103.99,103.99,medium,low,7,namesilo,,,18/08/2026 14:23
-e9fe4f24-fc15-4e92-a2d7-792ab3559844,sejm.airforce,available,103.99,103.99,high,low,4,namesilo,,,30/09/2026 20:42
-6ce64465-24d9-4ded-b84a-2817a26954e2,burden.airforce,available,103.99,103.99,medium,low,6,namesilo,,,29/09/2026 05:26
-cfa735ec-4717-4f67-b539-5f7e0a4b9a26,schizoid.airforce,available,103.99,103.99,medium,low,8,namesilo,,,09/09/2026 23:09
-725ed9be-d0b4-490c-980b-e4da22947797,soulful.airforce,available,103.99,103.99,high,low,7,namesilo,,,10/09/2026 14:42
-c90e6e0d-93c3-4c7f-9cb1-b8f74a1ad021,propensity.airforce,available,103.99,103.99,high,low,10,namesilo,,,22/08/2026 22:09
-a96e08d1-c9b2-4235-a7f7-4ab04357e1d5,club.airforce,premium,128.7,128.7,high,medium,4,namecheap,,,29/09/2026 00:44
-cb412e9b-0d15-4509-9e89-31a1c9e1ea4b,impediment.airforce,available,103.99,103.99,medium,low,10,namesilo,,,14/08/2026 04:53
-c4892973-934a-451c-a8c7-8a8dac409ae0,mandel.airforce,available,103.99,103.99,medium,low,6,namesilo,,,29/09/2026 16:32
